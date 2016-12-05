@@ -1,0 +1,6 @@
+The following issues were recently filed with the <ENAMEX TYPE="ORGANIZATION">Securities and Exchange Commission</ENAMEX>:
+<ENAMEX TYPE="ORGANIZATION">Amtech Corp.</ENAMEX>, initial offering of 1.6 million shares, via <ENAMEX TYPE="ORGANIZATION">Smith Barney</ENAMEX>, <ENAMEX TYPE="ORGANIZATION">Harris Upham & Co.</ENAMEX>
+<ENAMEX TYPE="ORGANIZATION">Atlantic City Electric Co.</ENAMEX>, a unit of <ENAMEX TYPE="ORGANIZATION">Atlantic Energy Inc.</ENAMEX>, offering of $135 million first mortgage bonds.
+<ENAMEX TYPE="ORGANIZATION">Container Corp.</ENAMEX> of <ENAMEX TYPE="LOCATION">America</ENAMEX>, offering of $750 million debentures, via <ENAMEX TYPE="ORGANIZATION">Morgan Stanley & Co.</ENAMEX>
+<ENAMEX TYPE="ORGANIZATION">Mass Microsystems Inc.</ENAMEX>, initial public offering of 1,436,265 common shares, of which 1.4 million shares will be sold by the company, and the rest by holders, via <ENAMEX TYPE="ORGANIZATION">Pennsylvania Merchant Group Ltd.</ENAMEX>
+<ENAMEX TYPE="ORGANIZATION">Morningstar Foods Inc.</ENAMEX>, offering of $150 million senior notes, via <ENAMEX TYPE="ORGANIZATION">BT Securities Corp.</ENAMEX>

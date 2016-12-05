@@ -1,0 +1,3 @@
+<ENAMEX TYPE="ORGANIZATION">Newsote Inc.</ENAMEX> completed the acquisition of <ENAMEX TYPE="ORGANIZATION">Pantasote Inc.</ENAMEX> for $13.70 a share, or $56 million.
+<ENAMEX TYPE="ORGANIZATION">Newsote</ENAMEX> is controlled by <ENAMEX TYPE="PERSON">Jeffrey S. Podell</ENAMEX>, a <ENAMEX TYPE="LOCATION">New York</ENAMEX> attorney.
+<ENAMEX TYPE="ORGANIZATION">Pantasote</ENAMEX> makes industrial plastic products, including gaskets for refrigerator doors; wall coverings, plastic packaging and polyvinyl chloride compound, which is used in wire and cable.

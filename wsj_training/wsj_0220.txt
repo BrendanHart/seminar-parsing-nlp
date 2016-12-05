@@ -1,0 +1,4 @@
+<ENAMEX TYPE="LOCATION">Canada</ENAMEX>'s gross domestic product rose an inflation-adjusted 0.3% in August, mainly as a result of service-industry growth, <ENAMEX TYPE="ORGANIZATION">Statistics Canada</ENAMEX>, a federal agency, said.
+The August GDP was up 2.4% from its year-earlier level. GDP is the total value of a nation's output of goods and services.
+<ENAMEX TYPE="ORGANIZATION">Statistics Canada</ENAMEX> said service-industry output in August rose 0.4% from <ENAMEX TYPE="LOCATION">July</ENAMEX>. Output of goods-producing industries increased 0.1%.
+Separately, <ENAMEX TYPE="ORGANIZATION">Statistics Canada</ENAMEX> reported that its industrial-product price index dropped 0.2% in September, its third consecutive monthly decline. It also reported a 2.6% decline in its raw-materials price index for September.

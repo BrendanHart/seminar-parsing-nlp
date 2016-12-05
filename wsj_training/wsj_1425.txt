@@ -1,0 +1,4 @@
+<ENAMEX TYPE="ORGANIZATION">Translant Inc.</ENAMEX>, <ENAMEX TYPE="LOCATION">Rancho Cucamonga</ENAMEX>, <ENAMEX TYPE="LOCATION">Calif.</ENAMEX>, got an $86 million Navy contract for missile-launch systems.
+<ENAMEX TYPE="ORGANIZATION">General Electric Co.</ENAMEX> received a $30.6 million <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> contract for MX-missile nose cones.
+<ENAMEX TYPE="ORGANIZATION">Goodyear Tire & Rubber Co.</ENAMEX> was awarded a $19.1 million <ENAMEX TYPE="ORGANIZATION">Army</ENAMEX> contract for armored-vehicle parts.
+<ENAMEX TYPE="ORGANIZATION">Analytic Sciences Corp.</ENAMEX> was awarded a $10.1 million <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> contract for technical support.

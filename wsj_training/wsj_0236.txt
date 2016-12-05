@@ -1,0 +1,2 @@
+<ENAMEX TYPE="ORGANIZATION">Martin Marietta Corp.</ENAMEX> said it won a $38.2 million contract from the <ENAMEX TYPE="ORGANIZATION">U.S. Postal Service</ENAMEX> to manufacture and install automated mail-sorting machines.
+Under terms of the three-year contract, <ENAMEX TYPE="ORGANIZATION">Martin Marietta</ENAMEX> said it will make and install 267 of the new machines at 156 postal offices. The new machines are capable of sorting by zip code up to 10,000 large flat mail pieces, including magazines and parcels, an hour.

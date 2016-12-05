@@ -1,0 +1,33 @@
+<0.15.11.91.09.50.46.dmm+@MAPS.CS.CMU.EDU (Dave McKeown).0>
+Type:     cmu.cs.robotics
+Topic:    VISION Seminar TODAY
+Dates:    15-Nov-91
+Time:     2:00 PM - 3:00 PM
+Host:     Dave McKeown,  dmm@cs.cmu.edu
+PostedBy: dmm+ on 15-Nov-91 at 09:50 from MAPS.CS.CMU.EDU (Dave McKeown)
+Abstract: 
+SPECIAL COMPUTER VISION SEMINAR           NOT SO FRIENDLY REMINDER :-)
+
+Friday November 15, 1991	TODAY
+       2:00pm - 3:00pm
+       Wean 4634 
+    Symbiosis between photogrammetry and image understanding
+
+	Dr. Chris McGlone
+	Fairchild Weston Systems
+
+	Photogrammetry and image understanding are complementary fields; 
+image understanding is concerned with "what", while photogrammetry is 
+concerned with "where."  While there has been some productive cross-
+fertilization, there are many further possibilities for useful 
+interactions.  This talk will outline some areas of image understanding 
+where photogrammetric techniques could be useful, such as multiple image 
+solutions and stochastic modeling, and similarly, some topics in 
+photogrammetry where image understanding concepts could be applied. The 
+eventual goal should be the tighter integration of both fields, looking 
+beyond automating individual operator's tasks and emulating paper maps to 
+new ways of obtaining, processing, and exploiting image information.  As 
+an example of the integration of image understanding and photogrammetry, 
+the use of snakes for automated image-map registration will be discussed.
+
+ Host:  Dave McKeown,  dmm@cs.cmu.edu

@@ -1,0 +1,13 @@
+<0.27.10.94.12.41.00.muir+@CS.CMU.EDU (Patrick Muir).0>
+Type:     cmu.cs.robotics
+Topic:    Antal Bejczy Lecture Nov. 11
+Dates:    11-Nov-94
+Time:     1:30
+PostedBy: muir+ on 27-Oct-94 at 12:41 from CS.CMU.EDU (Patrick Muir)
+Abstract: 
+
+The Pittsburgh Robotics and Automation Chapter of the IEEE is
+sponsoring a lecture by Antal Bejczy of JPL under the IEEE
+distinguished lecture program. Antal will speak on the topic:
+Calibrated Virtual Reality in Telerobotics. The lecture will
+be in Wean 4623 at 1:30 on Friday November 11. All are invited.

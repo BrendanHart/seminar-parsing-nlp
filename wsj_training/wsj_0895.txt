@@ -1,0 +1,3 @@
+<ENAMEX TYPE="ORGANIZATION">PPG Industries Inc.</ENAMEX> said it will expand production at its <ENAMEX TYPE="LOCATION">Barberton</ENAMEX>, <ENAMEX TYPE="LOCATION">Ohio</ENAMEX>, chemical plant to increase total capacity by 50%.
+<ENAMEX TYPE="ORGANIZATION">PPG</ENAMEX> termed the expansion a ``multimillion-dollar project,'' but didn't give details.
+The plant makes plastics used for lenses in sunglasses and safety glasses.

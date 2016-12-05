@@ -1,0 +1,2 @@
+<ENAMEX TYPE="ORGANIZATION">Kroger Co.</ENAMEX> said it reached an agreement to sell its <ENAMEX TYPE="ORGANIZATION">Gateway Bakery</ENAMEX> in <ENAMEX TYPE="LOCATION">St. Louis</ENAMEX> to Alpha <ENAMEX TYPE="ORGANIZATION">Baking Co.</ENAMEX> in <ENAMEX TYPE="LOCATION">Chicago</ENAMEX>. Terms weren't disclosed.
+The facility was among 11 food manufacturing plants <ENAMEX TYPE="ORGANIZATION">Kroger</ENAMEX> earmarked for sale as part of the company's restructuring. The sale of the bakery completes the food chain's sales of the plants.

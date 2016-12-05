@@ -1,0 +1,2 @@
+<ENAMEX TYPE="ORGANIZATION">Unisys Corp.</ENAMEX> said its health-care systems division introduced a touch-screen workstation for users of its <ENAMEX TYPE="ORGANIZATION">Professional Resource Network</ENAMEX>, a health-care information system sold to hospitals.
+<ENAMEX TYPE="ORGANIZATION">Unisys</ENAMEX> makes information systems and defense systems.

@@ -1,0 +1,12 @@
+<ENAMEX TYPE="ORGANIZATION">Westinghouse Electric Corp.</ENAMEX> won $234.3 million in contracts for <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> radar improvements and Navy underwater mine-hunting devices.
+<ENAMEX TYPE="ORGANIZATION">Thiokol Inc.</ENAMEX> got a $225.9 million <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> contract for MX rocket motors.
+<ENAMEX TYPE="ORGANIZATION">Boeing Co.</ENAMEX> was awarded a $65.3 million <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> contract for radar aircraft improvements.
+<ENAMEX TYPE="ORGANIZATION">Raytheon Co.</ENAMEX> got $62.6 million in contracts for <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> satellite production and Army Hawk missile services.
+<ENAMEX TYPE="ORGANIZATION">Rockwell International Corp.</ENAMEX> received a $31.6 million contract for <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> satellite production and bomb parts.
+<ENAMEX TYPE="ORGANIZATION">AT&T Technologies Inc.</ENAMEX>, a unit of <ENAMEX TYPE="ORGANIZATION">American Telephone & Telegraph Co.</ENAMEX>, was issued a $27.6 million Navy contract for signal processors.
+<ENAMEX TYPE="ORGANIZATION">Texas Instruments Inc.</ENAMEX> won a $24.8 million <ENAMEX TYPE="ORGANIZATION">Army</ENAMEX> contract for missile parts and tank sights.
+<ENAMEX TYPE="ORGANIZATION">Grumman Corp.</ENAMEX> got a $23 million Navy contract for aircraft electronics and ground support.
+<ENAMEX TYPE="ORGANIZATION">American Apparel Corp.</ENAMEX> was awarded a $16.6 million <ENAMEX TYPE="ORGANIZATION">Defense Logistics Agency</ENAMEX> contract for coats.
+<ENAMEX TYPE="ORGANIZATION">Unisys Corp.</ENAMEX> was issued a $14.3 million Navy contract for training simulators.
+<ENAMEX TYPE="ORGANIZATION">Litton Systems Inc.</ENAMEX>, a unit of <ENAMEX TYPE="ORGANIZATION">Litton Industries Inc.</ENAMEX>, won an $11.8 million Navy contract for communications equipment.
+<ENAMEX TYPE="ORGANIZATION">Deere & Co.</ENAMEX> received a $10.7 million <ENAMEX TYPE="ORGANIZATION">Defense Logistics Agency</ENAMEX> contract for industrial equipment.

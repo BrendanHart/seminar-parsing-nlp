@@ -1,0 +1,17 @@
+<0.3.12.93.07.59.44.trg+@N3.SP.CS.CMU.EDU (Thomas Gross).0>
+Type:     cmu.cs.scs
+Topic:    CS/PSC Seminar 12/3 4:00pm Kai Li WeH 5409
+Dates:    3-Dec-93
+Time:     4:00 PM
+PostedBy: trg+ on 3-Dec-93 at 07:59 from N3.SP.CS.CMU.EDU (Thomas Gross)
+Abstract: 
+
+	Computer Systems/Pittsburgh Supercomputing Center Seminar
+
+	Virtual Memory Mapped Network Interface for SHRIMP multicomputer
+
+	    			Kai Li
+			Princeton University
+
+	Friday, Dec 3rd, 1993 at 4:00 p.m. in WeH 5409
+

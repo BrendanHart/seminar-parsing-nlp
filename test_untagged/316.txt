@@ -1,0 +1,38 @@
+<0.31.3.95.11.59.25.plp+@HOSTESS.GRAPHICS.CS.CMU.EDU (Phyllis Pomerantz).0>
+Type:     Joint AI/HCI Seminar
+Who:      Harold Cohen / UC at San Diego
+Topic:    AARON: In Living Color
+Dates:    18-Apr-95
+Time:     3:30 PM
+Place:    5409 Wean Hall
+Duration: 1 1/2 hours
+Host:     Herbert Simon
+PostedBy: plp+ on 31-Mar-95 at 11:59 from HOSTESS.GRAPHICS.CS.CMU.EDU (Phyllis Pomerantz)
+Abstract: 
+
+ Type:     Joint AI/HCI Seminar
+ Who:      Harold Cohen / UC at San Diego
+ Topic:    AARON: In Living Color
+ Dates:    18-Apr-95
+ Time:     3:30 p.m.
+ Place:    5409 Wean Hall
+ Duration: 1 1/2 hours
+ Host:     Herbert Simon
+
+ AARON: In Living Color.
+
+During the past four years, work on the AARON program has been directed
+primarily to giving it the ability to color its own drawings, and most
+recently to providing it with a painting machine with which it could do
+so in the real world. 
+
+Harold Cohen discusses some of the issues that have arisen in this
+task; for example, the problem of mapping the results of working in
+a three-color additive system to a real world n-color subtractive 
+system. AARON makes its debut in color at the Computer Museum in Boston
+on April 1, and Cohen assesses the degree to which the task has been 
+accomplished.
+
+ FurtherDetails: For details send mail to valdes@cs
+
+FurtherDetails: For details send mail to valdes@cs    

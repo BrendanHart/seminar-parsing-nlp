@@ -1,0 +1,5 @@
+I much enjoyed your Aug. 31 page-one piece about ``<ENAMEX TYPE="LOCATION">Desert Island</ENAMEX> Discs.'' However, it is incorrect to describe the <ENAMEX TYPE="ORGANIZATION">BBC</ENAMEX> as ``state owned.''
+Many British governments may have wished that they owned the <ENAMEX TYPE="ORGANIZATION">BBC</ENAMEX>, but none have succeeded. The <ENAMEX TYPE="ORGANIZATION">BBC</ENAMEX> is a public corporation with full editorial and managerial independence. Its source of income is the license fee levied on every household containing a television set.
+<ENAMEX TYPE="PERSON">Jonathan Crane</ENAMEX>
+<ENAMEX TYPE="ORGANIZATION">British Broadcasting Corp.</ENAMEX>
+New

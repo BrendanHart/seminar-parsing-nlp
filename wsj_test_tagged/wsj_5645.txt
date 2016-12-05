@@ -1,0 +1,3 @@
+<ENAMEX TYPE="ORGANIZATION">Rite Aid Corp.</ENAMEX> said it entered a definitive agreement to acquire <ENAMEX TYPE="ORGANIZATION">Lane Drugs Corp.</ENAMEX>, a drugstore chain in southern and central <ENAMEX TYPE="LOCATION">New Jersey</ENAMEX>. Terms weren't disclosed.
+<ENAMEX TYPE="PERSON">Lane</ENAMEX>, a closely held company based in <ENAMEX TYPE="LOCATION">Lakewood N.J.</ENAMEX>, operates 18 stores.
+<ENAMEX TYPE="ORGANIZATION">Rite Aid</ENAMEX>, the largest drugstore chain in the <ENAMEX TYPE="LOCATION">U.S.</ENAMEX>, said it expects to close the transaction by Sept. 29.

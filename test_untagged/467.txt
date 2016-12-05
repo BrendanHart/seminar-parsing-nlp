@@ -1,0 +1,57 @@
+<1.10.1.92.09.00.27.lydia+@PROOF.ERGO.CS.CMU.EDU (Lydia Defilippo).0>
+Type:     cmu.cs.scs
+Who:      Steven Skiena
+          Department of Computer Science
+          State University of New York, Stony Brook
+Topic:    Algorithms for Square Roots of Graphs
+Dates:    14-Jan-92
+Time:     1:30 PM
+Place:    Wean Hall 4634
+Host:     Dana Scott
+PostedBy: lydia+ on 10-Jan-92 at 09:00 from PROOF.ERGO.CS.CMU.EDU (Lydia Defilippo)
+Abstract: 
+
+
+Please note that Steven Skiena will now speak
+at 1:30 instead of 3:30 due to a conflict in seminars.
+
+ Speaker:   Steven Skiena
+            Department of Computer Science
+            State University of New York, Stony Brook
+
+ Date:	   Tuesday, January 14
+ Time:      1:30 pm
+ Place:     Wean Hall 4634
+
+ Topic:     Algorithms for Square Roots of Graphs
+
+The {\em kth power} of a graph  G = (V, E), written G^k,
+is defined to be the graph having V as its vertex set with
+vertices u, v adjacent in G^k if and only if
+there exists a path of length at most k between them.
+Similarly, graph H has a {\em kth root} G if G^k = H.
+Powers of graphs have several interesting properties.
+For example, the square of any biconnected graph and the
+cube of any connected graph is hamiltonian.
+
+In this talk, we present algorithms to find a square
+root G of a graph G^2 for the following special classes of graphs:
+
+	Find G given G^2, where G is a tree, in O(m) time.
+
+	Find G given G^2, where G^2 is planar, in O(n) time.
+
+	Find G given G^2, where G is a subdivided graph, in O(m n) time.
+
+Finding square roots of subdivided graphs is equivalent to inverting
+total graphs.
+In addition, we present several results on the complexity
+of finding maximum cliques and hamiltonian cycles in powers of graphs.
+
+This is joint work with Yaw-Ling Lin.
+
+ Host: Dana Scott
+
+Appointments can be made through Lydia DeFilippo, x3063, lydia@cs.cmu.edu.
+
+Steve Skiena will be at CMU Monday, January 13, and Tuesday, February 14.

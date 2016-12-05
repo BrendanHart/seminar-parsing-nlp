@@ -1,0 +1,3 @@
+<ENAMEX TYPE="ORGANIZATION">Opus Computer Products Inc.</ENAMEX> said it ended talks to sell its <ENAMEX TYPE="LOCATION">Gary</ENAMEX>, <ENAMEX TYPE="LOCATION">Ill.</ENAMEX>, plant to <ENAMEX TYPE="ORGANIZATION">Spectrum Datatech Inc.</ENAMEX>
+<ENAMEX TYPE="ORGANIZATION">Opus</ENAMEX>, a maker of magnetic media products, had signed a letter of intent with <ENAMEX TYPE="ORGANIZATION">Spectrum</ENAMEX>, a <ENAMEX TYPE="LOCATION">Longmont</ENAMEX>, <ENAMEX TYPE="LOCATION">Colo.</ENAMEX>, distributor of computer-related supplies.
+<ENAMEX TYPE="ORGANIZATION">Opus</ENAMEX> said it is looking for other buyers.

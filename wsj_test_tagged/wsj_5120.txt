@@ -1,0 +1,3 @@
+<ENAMEX TYPE="ORGANIZATION">Bausch & Lomb Inc.</ENAMEX> said it acquired an 80% stake in <ENAMEX TYPE="ORGANIZATION">Voroba Hearing Systems</ENAMEX>, a <ENAMEX TYPE="LOCATION">Minneapolis</ENAMEX> company involved in developing hearing aids and diagnostic equipment. Terms weren't disclosed.
+The remaining 20% of <ENAMEX TYPE="ORGANIZATION">Voroba</ENAMEX> will be retained by <ENAMEX TYPE="PERSON">Barry Voroba</ENAMEX>, its founder, who will manage the company.
+<ENAMEX TYPE="ORGANIZATION">Bausch & Lomb</ENAMEX> is an optical products concern.

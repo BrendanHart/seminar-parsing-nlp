@@ -1,0 +1,4 @@
+<ENAMEX TYPE="ORGANIZATION">Mapco Alaska Petroleum</ENAMEX>, a unit of <ENAMEX TYPE="ORGANIZATION">Mapco Inc.</ENAMEX>, received a $32 million <ENAMEX TYPE="ORGANIZATION">Defense Logistics Agency</ENAMEX> contract for jet fuel.
+<ENAMEX TYPE="ORGANIZATION">Texas Instruments Inc.</ENAMEX> was given a $20.5 million <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> contract for aircraft-electronics improvements.
+<ENAMEX TYPE="ORGANIZATION">Martin Marietta Corp.</ENAMEX> won a $13.3 million <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> contract for missile-transporter units.
+<ENAMEX TYPE="ORGANIZATION">Magnavox Corp.</ENAMEX> got an $11.3 million <ENAMEX TYPE="ORGANIZATION">Army</ENAMEX> contract for Stinger missile fuses.

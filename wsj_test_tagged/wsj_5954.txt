@@ -1,0 +1,1 @@
+SPORTS: <ENAMEX TYPE="PERSON">Dominique Wilkins</ENAMEX>, All-Star forward with the <ENAMEX TYPE="LOCATION">Atlanta</ENAMEX> Hawks, signed a four-year personal endorsement contract with <ENAMEX TYPE="ORGANIZATION">Reebok International</ENAMEX>. He'll wear <ENAMEX TYPE="ORGANIZATION">Reebok</ENAMEX>'s Jam Series basketball shoes.

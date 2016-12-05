@@ -1,0 +1,3 @@
+<ENAMEX TYPE="ORGANIZATION">British Petroleum PLC</ENAMEX> said its <ENAMEX TYPE="LOCATION">North Sea</ENAMEX> Ravenspurn South natural gas field has entered production.
+The company said <ENAMEX TYPE="PERSON">Ravenspurn</ENAMEX> ``A,'' the first of three unmanned wellhead platforms, started production. The two others will be brought into production over the next year, <ENAMEX TYPE="ORGANIZATION">BP</ENAMEX> added.
+Initial production from the field will be 70 million cubic feet per day, rising to 200 million cubic feet per day by 1991. <ENAMEX TYPE="ORGANIZATION">BP</ENAMEX> said the field had reserves of 635 billion cubic feet and an estimated production life of 20 years. The field is 100% licensed to <ENAMEX TYPE="ORGANIZATION">BP</ENAMEX>.

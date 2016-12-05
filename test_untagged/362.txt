@@ -1,0 +1,45 @@
+<0.22.3.93.11.51.27.feline+@ISL1.RI.CMU.EDU (Carol S Boshears).0>
+Type:     cmu.cs.robotics
+Topic:    Seminar
+Dates:    30-Mar-93
+Time:     12:00 - 1:00
+PostedBy: feline+ on 22-Mar-93 at 11:51 from ISL1.RI.CMU.EDU (Carol S Boshears)
+Abstract: 
+
+CIMDS Seminar - Steve Chien, JPL, 3/30. 12:00-1:00, Doherty Hall ??
+	Learning Control Knowledge for Scheduling
+
+			Steve Chien
+		Jet Propulsion Laboratory
+	     California Institute of Technology
+
+While the general class of most scheduling problems is NP-hard in
+worst-case complexity (i.e., a general solution is doomed to poor 
+performance), in practice, for specific distributions of problems
+and constraints, domain-specific solutions have been shown to perform
+in much better than exponential time.  However, discovering these
+search strategies is a knowledge-intensive time-consuming process
+which requires a deep understanding of the domain.
+
+The goal of this work is to develop techniques to allow for automated
+learning of effective domain-specific schedulers from a general
+scheduler with a flexible control strategy.  In this approach,
+techniques from machine learning and statistics are used to
+automaticaly find control settings to for the scheduler which allow it
+to improve performance on the domain-specific problems of interest.
+
+These techniques have been applied to learning control settings for a 
+scheduler to schedule operations for the 26-meter subnet of the Deep 
+Space Network (DSN), operated by JPL and used to communicate with orbiting
+spacecraft and satellites.  For DSN projected schedules, the machine learning
+techniques were able to decrease the amount of CPU time required to
+produce a schedule by 50% for problems solvable by the scheduler.
+In addition, the machine learning allowed the scheduler to solve 15% more 
+of the problems within computational resource limitations.
+
+(This is joint work with Jonathan Gratch and Gerald DeJong of the
+University of Illinois)
+
+Steve is interested in meeting with anyone working on projects in planning,
+scheduling and learning. If you are interested in meeting with Steve, please
+set up a time with Carol (boshears@isl1.ri.cmu.edu).

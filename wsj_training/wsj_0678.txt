@@ -1,0 +1,23 @@
+The following <ENAMEX TYPE="ORGANIZATION">U.S. Treasury</ENAMEX>, corporate and municipal offerings are tentatively scheduled for sale this week, according to <ENAMEX TYPE="ORGANIZATION">Dow Jones</ENAMEX> Capital Markets Report:
+$15.6 billion of three-month and six-month bills. $2 billion of 51-day cash management bills.
+<ENAMEX TYPE="ORGANIZATION">Associated Natural Gas Corp.</ENAMEX> -- 1.4 million common shares, via <ENAMEX TYPE="ORGANIZATION">Dillon Read & Co.</ENAMEX>
+<ENAMEX TYPE="ORGANIZATION">B & H Crude Carriers Ltd.</ENAMEX> -- Four million common shares, via <ENAMEX TYPE="ORGANIZATION">Salomon Brothers Inc.</ENAMEX>
+<ENAMEX TYPE="ORGANIZATION">Chemical Banking Corp.</ENAMEX> -- 14 million common shares, via <ENAMEX TYPE="ORGANIZATION">Goldman, Sachs & Co.</ENAMEX>
+<ENAMEX TYPE="ORGANIZATION">Chemex Pharmaceuticals Inc.</ENAMEX> -- 1.2 million units consisting of two shares of common stock and one common warrant, via <ENAMEX TYPE="ORGANIZATION">Painewebber Inc.</ENAMEX>
+<ENAMEX TYPE="ORGANIZATION">Comcast Corp.</ENAMEX> -- $150 million convertible debentures, via <ENAMEX TYPE="ORGANIZATION">Merrill Lynch Capital</ENAMEX> Markets.
+<ENAMEX TYPE="ORGANIZATION">Energy Service Co.</ENAMEX> -- 9.5 million common shares, via <ENAMEX TYPE="ORGANIZATION">Alex.</ENAMEX> <ENAMEX TYPE="ORGANIZATION">Brown & Sons Inc.</ENAMEX>
+<ENAMEX TYPE="ORGANIZATION">Harmonia Bancorp Inc.</ENAMEX> -- 4,750,000 common shares, via <ENAMEX TYPE="ORGANIZATION">Shearson Lehman Hutton Inc.</ENAMEX>
+<ENAMEX TYPE="ORGANIZATION">Healthsource Inc.</ENAMEX> -- Two million common shares, via <ENAMEX TYPE="ORGANIZATION">Kidder, Peabody & Co.</ENAMEX>
+<ENAMEX TYPE="ORGANIZATION">Immune Response Corp.</ENAMEX> -- Three million common shares, via <ENAMEX TYPE="ORGANIZATION">Merrill Lynch.</ENAMEX>
+<ENAMEX TYPE="ORGANIZATION">Marsam Pharmaceuticals Inc.</ENAMEX> -- 1.3 million common shares, via <ENAMEX TYPE="ORGANIZATION">Smith Barney Harris Upham & Co.</ENAMEX>
+<ENAMEX TYPE="ORGANIZATION">Potash Corp. of Saskatchewan Inc.</ENAMEX> -- 13 million common shares, via <ENAMEX TYPE="ORGANIZATION">Merrill Lynch.</ENAMEX>
+Municipal
+<ENAMEX TYPE="ORGANIZATION">New Jersey Wastewater Treatment Trust</ENAMEX> -- $75,075,000 of various bonds, including $40.86 million Wastewater Treatment insured bonds, Series 1989A, and $34,215,000 Wastewater Treatment bonds, Series 1989B, via competitive bid.
+<ENAMEX TYPE="ORGANIZATION">Eastern Municipal Water District</ENAMEX>, <ENAMEX TYPE="LOCATION">Calif.</ENAMEX> -- $56,565,000 of 1989 certificates of participation (treatment plant projects), via competitive bid.
+<ENAMEX TYPE="ORGANIZATION">California Health Facilities Financing Authority</ENAMEX> -- $114 million of health facility revenue bonds (Catholic <ENAMEX TYPE="ORGANIZATION">Healthcare West)</ENAMEX>, Series 1989A, via a <ENAMEX TYPE="ORGANIZATION">First Boston Corp.</ENAMEX> group.
+<ENAMEX TYPE="LOCATION">Detroit</ENAMEX> -- $130 million of distributable state aid bonds, via a <ENAMEX TYPE="ORGANIZATION">Chemical Securities Inc.</ENAMEX> group.
+<ENAMEX TYPE="ORGANIZATION">Maryland Community Development Administration</ENAMEX>, <ENAMEX TYPE="ORGANIZATION">Department of Housing and Community Development</ENAMEX> -- $80 million of single-family program bonds, 1989 4th and 5th Series, via a <ENAMEX TYPE="ORGANIZATION">Merrill Lynch group</ENAMEX>.
+<ENAMEX TYPE="LOCATION">Matagorda County</ENAMEX> Navigation District No. 1, <ENAMEX TYPE="LOCATION">Texas</ENAMEX> -- $70,315,000 of pollution control revenue Alternative Minimum Tax (<ENAMEX TYPE="LOCATION">AMT</ENAMEX>) bonds (<ENAMEX TYPE="LOCATION">South Texas</ENAMEX> Project Units No. 1 and 2), via a <ENAMEX TYPE="ORGANIZATION">Goldman Sachs group</ENAMEX>.
+<ENAMEX TYPE="LOCATION">New York City</ENAMEX> -- $786,860,000 of bonds, Fiscal 1990 Series C and D, including $729.04 million tax-exempt bonds and $57.82 million taxable bonds, via a <ENAMEX TYPE="ORGANIZATION">Goldman Sachs</ENAMEX> group.
+<ENAMEX TYPE="ORGANIZATION">Santa Ana Redevelopment Agency</ENAMEX> -- $107 million of tax allocation bonds, 1989 Series A-D, via a <ENAMEX TYPE="ORGANIZATION">Donaldson Lufkin & Jenrette Securities Corp.</ENAMEX> group.
+Pending <ENAMEX TYPE="LOCATION">Shelby County</ENAMEX>, <ENAMEX TYPE="LOCATION">Tenn.</ENAMEX> -- $80 million of refunding bonds, Series 1989, via a <ENAMEX TYPE="ORGANIZATION">First Tennessee Bank</ENAMEX> group.

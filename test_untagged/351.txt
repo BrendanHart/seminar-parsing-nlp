@@ -1,0 +1,44 @@
+<0.6.10.92.13.24.07.tmeadows@resumix.portal.com (Tim Meadows).0>
+Type:     cmu.cs.robotics
+Topic:    Antarctic Exploration Robotics
+Dates:    9-Oct-92
+Time:     3:30 - 5:00 PM
+Place:    Baker Hall Adamson Wing
+Host:     Hagen Schempf, x6884
+PostedBy: tmeadows on 6-Oct-92 at 13:24 from resumix.portal.com (Tim Meadows)
+Abstract: 
+
+RI SEMINAR
+
+ WHEN:		Friday, October 9, 1992, 3:30 - 5:00 PM
+		Refreshments to be served by 3:15 PM
+
+ WHERE:		Baker Hall Adamson Wing
+
+ SPREAKER:		Dr. William "Red" L. Whittaker-
+ 		Principal Scientist and Director, 
+ 		The Field Robotics Center- CMU
+
+ TITLE:		Antarctic Exploration Robotics
+
+CMU's DANTE robot will soon explore an active volcano in Antarctica. 
+DANTE is a remote geologist and a harbinger of polar and planetary robots. 
+The exploration objective of the project is to study the gas from the lava 
+lake. The robotics objectives of this program are to navigate the extreme 
+terrain of the crater walls, and to operate in harsh conditions. The 
+technical challenges include perception, locomotion and mission 
+performance in planet-like conditions. The system envisioned for 
+this exploration includes a novel walking robot, camera and scanner 
+vision, scientific sampling devices, remote interfaces and a satellite 
+data link for live feedback to the US.
+
+This seminar profiles the technical challenges with progress and 
+approaches that address them. Examples include a new laser range 
+scanner for terrain modeling, non-contact foot sensing and mechanics 
+for combining the tension of a climbing rope with the motions of a 
+walking robot. A lab visit following the presentation provides the 
+opportunity to view results to date.
+
+ Host: Hagen Schempf, x6884
+*************************************************
+

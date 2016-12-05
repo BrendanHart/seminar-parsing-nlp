@@ -1,0 +1,3 @@
+<ENAMEX TYPE="ORGANIZATION">Copperweld Corp.</ENAMEX>, a specialty steelmaker, said 445 workers at a plant in <ENAMEX TYPE="LOCATION">Shelby</ENAMEX>, <ENAMEX TYPE="LOCATION">Ohio</ENAMEX>, began a strike after the <ENAMEX TYPE="ORGANIZATION">United Steelworkers</ENAMEX> Local 3057 rejected a new contract on Tuesday.
+The previous contract between <ENAMEX TYPE="ORGANIZATION">Copperweld</ENAMEX>'s <ENAMEX TYPE="ORGANIZATION">Ohio Steel Tube</ENAMEX> division and the union expired at midnight Tuesday. The union vote to reject the proposed pact was 230-215.
+<ENAMEX TYPE="ORGANIZATION">Copperweld</ENAMEX> said it doesn't expect a protracted strike. It said it has taken measures to continue shipments during the work stoppage.

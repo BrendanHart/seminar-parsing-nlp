@@ -1,0 +1,4 @@
+<ENAMEX TYPE="ORGANIZATION">Lake Shore Inc.</ENAMEX> was given a $39.9 million Navy contract for causeway sections.
+<ENAMEX TYPE="ORGANIZATION">Hamilton Technology Inc.</ENAMEX>, a unit of <ENAMEX TYPE="ORGANIZATION">Clabir Corp.</ENAMEX>, received a $16.2 million <ENAMEX TYPE="ORGANIZATION">Army</ENAMEX> contract for mine parts.
+<ENAMEX TYPE="ORGANIZATION">American Development Corp.</ENAMEX> won an $11.8 million <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> contract for aircraft-test equipment.
+<ENAMEX TYPE="ORGANIZATION">Accudyne Corp.</ENAMEX>, a unit of <ENAMEX TYPE="ORGANIZATION">Astra Holdings Corp.</ENAMEX>, was awarded a $10.5 million <ENAMEX TYPE="ORGANIZATION">Army</ENAMEX> contract for mine parts.

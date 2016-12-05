@@ -1,0 +1,2 @@
+<ENAMEX TYPE="ORGANIZATION">Vencor Inc.</ENAMEX> made an initial public offering of 1.7 million common shares at $8.50 a share. The offering represents an increase from the 1.2 million shares the company offered July 28.
+<ENAMEX TYPE="ORGANIZATION">Vencor</ENAMEX> operates six hospitals in <ENAMEX TYPE="LOCATION">Florida</ENAMEX>, <ENAMEX TYPE="LOCATION">Texas</ENAMEX>, <ENAMEX TYPE="LOCATION">Indiana</ENAMEX>, <ENAMEX TYPE="LOCATION">Illinois</ENAMEX> and <ENAMEX TYPE="LOCATION">Louisiana</ENAMEX>.

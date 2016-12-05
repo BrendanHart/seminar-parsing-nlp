@@ -1,0 +1,23 @@
+<ENAMEX TYPE="ORGANIZATION">TRW Inc.</ENAMEX> received $132.1 million in contracts for <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> missile support and Army prototype communication equipment.
+<ENAMEX TYPE="ORGANIZATION">General Dynamics Corp.</ENAMEX> received $100.2 million in contracts for Army missiles and <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> aircraft and support spare parts.
+<ENAMEX TYPE="ORGANIZATION">General Electric Co.</ENAMEX> received $83.6 million in contracts for <ENAMEX TYPE="ORGANIZATION">Army</ENAMEX> and <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> engine parts and base support.
+<ENAMEX TYPE="ORGANIZATION">Ford Aerospace & Communications Corp.</ENAMEX>, a unit of <ENAMEX TYPE="ORGANIZATION">Ford Motor Co.</ENAMEX>, received a $75 million <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> contract for satellite control network operations.
+<ENAMEX TYPE="ORGANIZATION">Serve-Air Inc.</ENAMEX> received a $70 million <ENAMEX TYPE="ORGANIZATION">Army</ENAMEX> contract for operating an ammunition plant.
+<ENAMEX TYPE="ORGANIZATION">International Business Machines Corp.</ENAMEX> received a $61.6 million Navy contract for electronics equipment.
+<ENAMEX TYPE="ORGANIZATION">Lear Siegler Management Services Corp.</ENAMEX>, a unit of <ENAMEX TYPE="ORGANIZATION">Lear Siegler Diversified Holdings Corp.</ENAMEX>, received a $46.7 million Air Force contract for weapons-systems support.
+<ENAMEX TYPE="ORGANIZATION">Lockheed Corp.</ENAMEX> received a $46.7 million <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> contract for weapons-systems support.
+<ENAMEX TYPE="ORGANIZATION">Dyncorp Aerospace Operations</ENAMEX>, a unit of <ENAMEX TYPE="ORGANIZATION">Dyncorp</ENAMEX>, received a $46.7 million <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> contract for weapons-systems support.
+<ENAMEX TYPE="ORGANIZATION">Mcdonnell Douglas Corp.</ENAMEX> received contracts worth $39.3 million for <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> aircraft parts and Navy aircraft electronics.
+<ENAMEX TYPE="ORGANIZATION">Martin Marietta Corp.</ENAMEX> received a $36.9 million <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> contract for aircraft electronics.
+<ENAMEX TYPE="ORGANIZATION">Curtiss-Wright Flight System Inc.</ENAMEX>, a unit of <ENAMEX TYPE="ORGANIZATION">Curtiss-Wright Corp.</ENAMEX>, received a $31.6 million Air Force contract for F-16 aircraft parts.
+<ENAMEX TYPE="ORGANIZATION">Magnavox Electronic Systems Co.</ENAMEX> received a $29.1 million <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> contract for air control radios.
+<ENAMEX TYPE="ORGANIZATION">Cessna Aircraft Co.</ENAMEX> received a $23.3 million Navy contract for flight training.
+<ENAMEX TYPE="ORGANIZATION">Allied-Signal Inc.</ENAMEX> received contracts worth $22.8 million for Army rocket components and <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> F-15 parts.
+Link <ENAMEX TYPE="ORGANIZATION">Training Services Corp.</ENAMEX> received a $21.4 million Air Force contract for F-4 aircraft support.
+<ENAMEX TYPE="ORGANIZATION">Sanders Associates Inc.</ENAMEX> received an $18.1 million <ENAMEX TYPE="ORGANIZATION">Army</ENAMEX> contract for electronic countermeasures sets.
+<ENAMEX TYPE="ORGANIZATION">E-Systems Inc.</ENAMEX> received a $17.7 million <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> contract for special air mission aircraft support.
+<ENAMEX TYPE="ORGANIZATION">Rockwell International Corp.</ENAMEX> received a $17.4 million Air Force contract for <ENAMEX TYPE="LOCATION">Minuteman</ENAMEX> Missile support.
+<ENAMEX TYPE="ORGANIZATION">Science Applications International Corp.</ENAMEX> received a $16.2 million Navy contract for communication systems.
+<ENAMEX TYPE="ORGANIZATION">CAE-Link Corp.</ENAMEX> received a $15.9 million Navy contract for training simulators.
+<ENAMEX TYPE="ORGANIZATION">Northrop Corp.</ENAMEX> received a $13.4 million <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> contract for aircraft components.
+<ENAMEX TYPE="ORGANIZATION">Unisys Corp.</ENAMEX> received a $10 million <ENAMEX TYPE="ORGANIZATION">Army</ENAMEX> contract for computer equipment.

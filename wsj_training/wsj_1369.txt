@@ -1,0 +1,4 @@
+<ENAMEX TYPE="ORGANIZATION">General Electric Co.</ENAMEX> was given an $89.6 million Navy contract for nuclear propulsion parts.
+<ENAMEX TYPE="ORGANIZATION">Westinghouse Electric Corp.</ENAMEX> also won a $75.5 million Navy contract for nuclear propulsion parts.
+<ENAMEX TYPE="ORGANIZATION">Federal Data Corp.</ENAMEX> was issued a $14.5 million Navy contract for computer systems.
+<ENAMEX TYPE="ORGANIZATION">American Telephone & Telegraph Co.</ENAMEX> was awarded an $11.5 million Navy contract for oceanographic services.

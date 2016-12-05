@@ -1,0 +1,23 @@
+<0.10.2.93.14.36.49.jass+@cs.cmu.edu (Jaspal Subhlok).0>
+Type:     cmu.cs.scs
+Topic:    Program Dependence Graph and Static Single Assignment forms
+Dates:    12-Feb-93
+Time:     9:00 AM
+Place:    WeH 5409
+PostedBy: jass+ on 10-Feb-93 at 14:36 from cs.cmu.edu (Jaspal Subhlok)
+Abstract: 
+
+
+ Date:    Feb 12,93
+ Time:    9.00 A.M.
+ Place:   WeH 5409
+ Topic:   Program Dependence Graph and Static Single Assignment forms
+
+Rajiv Gupta from University of Pittsburgh will deliver a guest
+lecture  in the course on "Modern Language Implementation" on
+Feb 19 at 9.00. His lecture will focus on Program Dependence
+Graph and Static Single Assignment program representations. You
+may wish to attend this lecture, even if you do not attend
+the class otherwise. Please contact me (jass@cs) if you wish to
+speak to Rajiv while he is here.
+

@@ -1,0 +1,6 @@
+corrects identical matches / identical matches
+
+Look for info in header (Location, Date, Speaker)
+    - If this fails, look for sentences like "talk by SPEAKER"
+    - If this fails, take the first name in the text
+    

@@ -1,0 +1,4 @@
+<ENAMEX TYPE="ORGANIZATION">Aussedat Rey S.A.</ENAMEX>, a French paper producer, said it concluded an agreement with <ENAMEX TYPE="LOCATION">Japan</ENAMEX>'s <ENAMEX TYPE="ORGANIZATION">Fuji Photo Film Co.</ENAMEX> that will allow <ENAMEX TYPE="LOCATION">Aussedat Rey</ENAMEX> to manufacture and sell thermal paper using <ENAMEX TYPE="LOCATION">Fuji</ENAMEX> technology.
+<ENAMEX TYPE="PERSON">Aussedat Rey</ENAMEX> is a leading French maker of copying and electronic printing paper. Thermal paper is used in facsimile machines.
+Terms of the agreement weren't disclosed.
+<ENAMEX TYPE="LOCATION">Aussedat Rey</ENAMEX>'s move follows similar technology-licensing agreements between Japanese producers of thermal paper and European paper groups.

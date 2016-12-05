@@ -1,0 +1,4 @@
+<ENAMEX TYPE="ORGANIZATION">Lyphomed Inc.</ENAMEX>, <ENAMEX TYPE="LOCATION">Rosemont</ENAMEX>, <ENAMEX TYPE="LOCATION">Ill.</ENAMEX>, and <ENAMEX TYPE="ORGANIZATION">Medco Research Inc.</ENAMEX>, <ENAMEX TYPE="LOCATION">Los Angeles</ENAMEX>, said the <ENAMEX TYPE="ORGANIZATION">Food and Drug Administration</ENAMEX> granted full marketing approval for a new drug for the treatment of a condition in which the heart beats between 150 and 200 beats a minute.
+The condition, known as paroxysmal supraventricular tachycardia, leads to dizziness and fainting. The typical healthy heart beats 70 times a minute.
+The drug, called adenocard, returns the heart to a normal rhythm within seconds, according to <ENAMEX TYPE="ORGANIZATION">Lyphomed</ENAMEX>.
+<ENAMEX TYPE="ORGANIZATION">Medco Research</ENAMEX> developed the drug and licensed it to Lyphomed for sale in the <ENAMEX TYPE="LOCATION">U.S.</ENAMEX> and <ENAMEX TYPE="LOCATION">Canada</ENAMEX>.

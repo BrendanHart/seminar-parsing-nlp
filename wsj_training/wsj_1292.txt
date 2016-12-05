@@ -1,0 +1,2 @@
+<ENAMEX TYPE="ORGANIZATION">Standard & Poor's Corp.</ENAMEX> said it would add <ENAMEX TYPE="PERSON">John H. Harland Co</ENAMEX>., an <ENAMEX TYPE="LOCATION">Atlanta</ENAMEX> check printer, to its 500-stock index, effective at the close of trading on Wednesday.
+<ENAMEX TYPE="ORGANIZATION">American Medical International Inc.</ENAMEX>, a <ENAMEX TYPE="LOCATION">New York</ENAMEX> hospital operator, will be deleted from the index at that time. <ENAMEX TYPE="ORGANIZATION">American Medical</ENAMEX> is being acquired.

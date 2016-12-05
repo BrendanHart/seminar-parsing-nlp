@@ -1,0 +1,3 @@
+<ENAMEX TYPE="ORGANIZATION">Communications Systems Inc.</ENAMEX> said hurricane damage to its main manufacturing plant in <ENAMEX TYPE="LOCATION">Puerto Rico</ENAMEX> is likely to have ``a considerable impact'' on third-quarter operating results.
+Hurricane Hugo damaged buildings, grounds and raw materials at its <ENAMEX TYPE="LOCATION">Puerto Rican</ENAMEX> subsidiary, <ENAMEX TYPE="PERSON">Suttle Caribe</ENAMEX>, the company said. The plant accounts for about 70% of <ENAMEX TYPE="ORGANIZATION">CSI</ENAMEX>'s telephone station apparatus shipments.
+The company said it hopes to resume normal operations within a few days.

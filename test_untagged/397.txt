@@ -1,0 +1,24 @@
+<1.9.2.93.14.31.50.garth+@NIAGARA.NECTAR.CS.CMU.EDU (Garth Gibson).1>
+Type:     cmu.cs.scs
+Topic:    Change!!: Wed WWC PictureTel Seminar
+Dates:    20-Jan-93
+Time:     7:00 PM - 8:30 PM
+PostedBy: garth+ on 9-Feb-93 at 14:31 from NIAGARA.NECTAR.CS.CMU.EDU (Garth Gibson)
+Abstract: 
+
+This talk is the next in a series of live, interactive video conferences
+that will be held every Wednesday 7 pm - 8:30 pm between January 20 and
+May 5 1993.  These conferences are being organized by a few west coast
+schools, hence the name, the West Coast Colloquium.  This will be something
+of a multiple university distinguished speakers series.  The participants,
+so far, are Berkeley, Stanford, Washington, UCLA, UC San Diego, UC Santa
+Barbara, and us.
+The technology is Picturetel based with conference bridging by AT&T.  There
+will be multiple monitors at each site;  cameras at every site are voice
+activated to force the display to show that site, so that the distributed
+audience can have camera time to ask questions.
+
+Wednesday's seminars are still experiemental.  Many sites have yet to
+get all the equipment working for such an ambitious conference call.
+Even if everything is working well, there will be a noticeable lag
+between your speech and its broadcast to your and others' monitors.

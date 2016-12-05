@@ -1,0 +1,1 @@
+<ENAMEX TYPE="PERSON">John B. Curcio</ENAMEX>, 55 years old, resigned as chairman of this diesel truck manufacturer, effective upon appointment of a successor. Last month, Mr. <ENAMEX TYPE="PERSON">Curcio</ENAMEX> was succeeded by <ENAMEX TYPE="PERSON">Ralph E. Reins</ENAMEX> as chief executive officer following several quarters of lackluster or declining performance.

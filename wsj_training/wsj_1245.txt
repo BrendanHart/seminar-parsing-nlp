@@ -1,0 +1,2 @@
+<ENAMEX TYPE="ORGANIZATION">Consumers Power Co.</ENAMEX> filed with the <ENAMEX TYPE="ORGANIZATION">Michigan Public Service Commission</ENAMEX> a contract to buy power from the <ENAMEX TYPE="LOCATION">Palisades</ENAMEX> nuclear plant under a proposed new ownership arrangement for the plant.
+<ENAMEX TYPE="ORGANIZATION">Consumers Power</ENAMEX> and <ENAMEX TYPE="ORGANIZATION">Bechtel Power Corp.</ENAMEX> last year announced a joint venture to buy the plant, currently owned completely by the utility.

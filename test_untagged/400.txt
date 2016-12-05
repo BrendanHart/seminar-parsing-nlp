@@ -1,0 +1,55 @@
+<0.15.2.93.09.40.01.garth+@NIAGARA.NECTAR.CS.CMU.EDU (Garth Gibson).0>
+Type:     cmu.cs.scs
+Topic:    WWC video seminar: Feb 17 7:15-8:15 pm 4623 WeH Christos H. Papadimitriou
+Dates:    17-Feb-93
+Time:     7:15 - 8:15 PM
+PostedBy: garth+ on 15-Feb-93 at 09:40 from NIAGARA.NECTAR.CS.CMU.EDU (Garth Gibson)
+Abstract: 
+
+	         West Coast Computer Science Colloquium
+
+		   SHORTEST PATHS WITHOUT A MAP:
+	   On-line Algorithms and the Value of Information
+
+		    Christos H. Papadimitriou
+	  Department of Computer Science and Engineering
+	      University of California, San Diego
+
+                        7:15 - 8:15 pm
+                        4623 Wean Hall
+                  (via Picturetel from UCSD)
+                moderated locally by Garth Gibson
+
+ ABSTRACT:  We often make decisions on the basis of very restricted
+ information.  How are we then to measure the quality of such decisions?
+ The economist Leonard Savage proposed in the 1950's that the outcome of
+ such on-line decisions be compared with the optimum outcome, achievable
+ if complete information had been available. Recent research by computer
+ scientists in on-line algorithms has shown the wide applicability of this
+ idea.  
+
+I am going to review on-line algorithms for terrain navigation and
+exploration, compiling for parallel machines, and distributed optimization.
+I shall also discuss how on-line algorithms can help determine the value of
+information and improve the organization of the decision-making process.
+
+----------------------------------------------------------------------------
+
+This talk is the next in a series of live, interactive video conferences
+that will be held every Wednesday 7 pm - 8:30 pm between January 20 and
+May 5 1993.  These conferences are being organized by a few west coast
+schools, hence the name, the West Coast Colloquium.  This will be something
+of a multiple university distinguished speakers series.  The participants,
+so far, are Berkeley, Stanford, Washington, UCLA, UC San Diego, UC Santa
+Barbara, and us.
+
+The technology is Picturetel based with conference bridging by AT&T.  There
+will be multiple monitors at each site;  cameras at every site are voice
+activated to force the display to show that site, so that the distributed
+audience can have camera time to ask questions.
+
+Wednesday's seminars are still experiemental.  Many sites have yet to
+get all the equipment working for such an ambitious conference call.
+Even if everything is working well, there will be a noticeable lag
+between your speech and its broadcast to your and others' monitors.
+

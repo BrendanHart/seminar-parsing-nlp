@@ -1,0 +1,4 @@
+<ENAMEX TYPE="ORGANIZATION">American Telephone & Telegraph Co.</ENAMEX> unveiled two facsimile offerings: a group of messaging services and a fax machine that includes both a fax line and a telephone line.
+<ENAMEX TYPE="ORGANIZATION">AT&T</ENAMEX> Enhanced <ENAMEX TYPE="PERSON">Fax</ENAMEX> is a group of services -- including fax mailboxes, fax forwarding, and mass-faxing capability -- aimed at giving users greater flexibility.
+Faxes can be sent to a personal ``mailbox,'' which the addressee enters with an identification code. <ENAMEX TYPE="ORGANIZATION">Faxes</ENAMEX> also can be forwarded from a mailbox to a designated fax machine. <ENAMEX TYPE="ORGANIZATION">Users of Enhanced Fax</ENAMEX> also can send messages to thousands of destinations nearly simultaneously, <ENAMEX TYPE="ORGANIZATION">AT&T</ENAMEX> said.
+The twin-line fax machine allows a caller to speak to his or her party while faxing a document. The model 9015PF can sit on a desktop or can be portable.

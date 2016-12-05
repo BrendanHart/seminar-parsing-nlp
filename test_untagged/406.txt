@@ -1,0 +1,56 @@
+<0.27.4.93.13.04.34.marcos+@CS.CMU.EDU (Marco J Schumacher).0>
+Type:     cmu.cs.scs
+Topic:    MSE End-of-Semester Presentation
+Dates:    5-May-93
+Time:     1:30 - 3:00 PM
+PostedBy: marcos+ on 27-Apr-93 at 13:04 from CS.CMU.EDU (Marco J Schumacher)
+Abstract: 
+
+             Master of Software Engineering 
+              End-of-Semester Presentation
+
+             "T2: The End of the Beginning"
+             ==============================
+
+                 by the MSE Studio Team
+
+                  SEI A104 (video room)        
+                    Wednesday, May 5
+                     1:30 - 3:00 pm
+The MSE Studio Team will relate its spring semester experience
+with the T2 project - providing software for the Field Robotics
+Center's Tessellator robot. The Tessellator is designed to service
+the Space Shuttles' Thermal Protection System. 
+
+The team formulated the requirements and drafted designs for
+both the High-Level Controller (HLC) and the End-Effector
+Positioning Software (EEPS). These activities mark the half-way
+point of the T2 project. 
+
+The presentation will include the following topics:
+
+- T2 Past and Future.
+
+  An overview of the events of the spring and an outlook
+  on the summer semester.
+
+- EEPS and HLC Requirements.
+
+  The functionality of the software and the techniques applied
+  to elicit and analyze the requirements. 
+
+- EEPS and HLC Software Architectures.
+
+  The proposed high-level designs for the software and the
+  process that led to the architectures.
+
+- T2  Process Handbook.
+
+  A set of management practices adopted by the team and collected
+  for use by other software development teams.
+
+- T2 Time Expenditures.
+
+  Some statistics on how the T2 developers spent their time. 
+
+------------------------------------------------------------------

@@ -1,0 +1,5 @@
+<ENAMEX TYPE="ORGANIZATION">Grumman Corp.</ENAMEX> was awarded a $53.1 million Navy contract for advanced acquisition of six E-2C tactical control aircraft.
+<ENAMEX TYPE="ORGANIZATION">LTV Corp.</ENAMEX> won a $25 million <ENAMEX TYPE="ORGANIZATION">Army</ENAMEX> contract for missile test equipment.
+<ENAMEX TYPE="ORGANIZATION">Unisys Corp.</ENAMEX> received a $24.4 million <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> contract for computer programming.
+<ENAMEX TYPE="ORGANIZATION">Ford Aerospace & Communications Corp.</ENAMEX>, a unit of <ENAMEX TYPE="ORGANIZATION">Ford Motor Co.</ENAMEX>, was awarded a $15.9 million <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> contract for computer improvements.
+<ENAMEX TYPE="ORGANIZATION">Rockwell International Corp.</ENAMEX> was issued a $12.5 million <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> contract for changes in the <ENAMEX TYPE="ORGANIZATION">National Aerospace Plane.</ENAMEX>

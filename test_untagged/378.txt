@@ -1,0 +1,30 @@
+<0.29.8.91.22.10.28.garlan+@RILA.ABLE.CS.CMU.EDU (David Garlan).0>
+Type:     cmu.cs.scs
+Topic:    Programming Systems Seminar
+Dates:    30-Sep-91
+Time:     3:30 - 5:00
+PostedBy: garlan+ on 29-Aug-91 at 22:10 from RILA.ABLE.CS.CMU.EDU (David Garlan)
+Abstract: 
+
+As has been the case for many years, the Programming Systems Seminar will
+take place Mondays from 3:30 to 5:00 in WeH 5409, starting September 30.
+For those new to CMU, the seminar features research presentations in the
+general area of programming systems.  Speakers include both invited guests
+from outside CMU as well as faculty and students within CMU. It is an
+excellent forum for faculty to discuss their research ideas, for students
+to get some practice at delivering technical talks, and for everyone to
+find out what others are doing.
+
+I'd like to encourage you to attend the seminar. I would also like to
+solicit your recommendations for speakers or topics. In particular, if you
+have a talk you would like to give, or know of someone that I should
+consider inviting, please let me know.
+
+Seminars will usually be announced on the scs bboard and cboard a few
+days before the talk. I also keep a mailing list of people to notify by
+e-mail. Programming systems faculty are automatically on the list.
+If you'd like to be included on the mailing list, too, let me know.
+
+Thanks and mark your calendar!
+
+David Garlan

@@ -1,0 +1,4 @@
+<ENAMEX TYPE="ORGANIZATION">Furukawa Co.</ENAMEX> of <ENAMEX TYPE="LOCATION">Japan</ENAMEX> said it will acquire two construction machinery plants and a sales unit in <ENAMEX TYPE="LOCATION">France</ENAMEX> formerly belonging to <ENAMEX TYPE="ORGANIZATION">Dresser Industries Inc.</ENAMEX> of the <ENAMEX TYPE="LOCATION">U.S.</ENAMEX>
+The company said it made the purchase in order to locally produce hydraulically operated shovels.
+Last October, the company also bought a wheel-loader manufacturing plant in <ENAMEX TYPE="LOCATION">Heidelberg</ENAMEX>, <ENAMEX TYPE="LOCATION">West Germany</ENAMEX>, from <ENAMEX TYPE="ORGANIZATION">Dresser.</ENAMEX>
+<ENAMEX TYPE="ORGANIZATION">Furukawa</ENAMEX> said the purchase of the French and German plants together will total about 40 billion yen ($280 million).

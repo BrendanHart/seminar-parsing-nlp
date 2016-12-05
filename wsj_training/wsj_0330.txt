@@ -1,0 +1,6 @@
+<ENAMEX TYPE="ORGANIZATION">General Dynamics Corp.</ENAMEX> was given an $843 million <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> contract for F-16 aircraft and related equipment.
+<ENAMEX TYPE="ORGANIZATION">Loral Corp.</ENAMEX>'s defense systems division received a $54.9 million <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> contract for a F-15 weapons system trainer.
+<ENAMEX TYPE="ORGANIZATION">Southern Air Transport Inc.</ENAMEX> won $47.5 million in <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> and <ENAMEX TYPE="ORGANIZATION">Navy</ENAMEX> contracts for transportation services.
+<ENAMEX TYPE="ORGANIZATION">International Business Machines Corp.</ENAMEX> was given a $31.2 million <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> contract for satellite data systems equipment.
+<ENAMEX TYPE="ORGANIZATION">Directed Technologies</ENAMEX> received a $28.3 million <ENAMEX TYPE="ORGANIZATION">Defense Advanced Research Projects Agency</ENAMEX> contract for advanced propulsion systems research.
+<ENAMEX TYPE="ORGANIZATION">Propper International Inc.</ENAMEX> got a $22.8 million <ENAMEX TYPE="ORGANIZATION">Defense Logistics Agency</ENAMEX> contract for combat camouflage trousers.

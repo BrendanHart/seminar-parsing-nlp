@@ -1,0 +1,2 @@
+<ENAMEX TYPE="ORGANIZATION">Hughes Aircraft Co.</ENAMEX>, a <ENAMEX TYPE="ORGANIZATION">General Motors Corp.</ENAMEX> unit, said the <ENAMEX TYPE="LOCATION">Intelsat</ENAMEX> VI commercial communications satellite is set to be launched Friday.
+The satellite, built by <ENAMEX TYPE="ORGANIZATION">Hughes for the International Telecommunications Satellite Organization</ENAMEX>, is part of a $700 million contract awarded to Hughes in 1982 to develop five of the three-ton satellites.

@@ -1,0 +1,4 @@
+<ENAMEX TYPE="ORGANIZATION">Corning Inc.</ENAMEX> said its <ENAMEX TYPE="ORGANIZATION">Corning France S.A.</ENAMEX> subsidiary has acquired glass-making patents from Wild <ENAMEX TYPE="PERSON">Leitz</ENAMEX>, a Swiss-German optics group that makes Leica cameras, <ENAMEX TYPE="PERSON">Leitz</ENAMEX> microscopes and optical equipment.
+Terms weren't disclosed.
+Under the agreement, <ENAMEX TYPE="ORGANIZATION">Corning</ENAMEX> said it will produce the glass under these patents at its optical plant at <ENAMEX TYPE="LOCATION">Bagneaux</ENAMEX>, <ENAMEX TYPE="LOCATION">France</ENAMEX>.
+<ENAMEX TYPE="ORGANIZATION">Corning</ENAMEX> is a telecommunications, specialty glass, ceramics products and laboratory-services concern.

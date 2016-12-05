@@ -1,0 +1,3 @@
+<ENAMEX TYPE="ORGANIZATION">Texas Instruments Japan Ltd.</ENAMEX>, a unit of <ENAMEX TYPE="ORGANIZATION">Texas Instruments Inc.</ENAMEX>, said it opened a plant in <ENAMEX TYPE="LOCATION">South Korea</ENAMEX> to manufacture control devices.
+The new plant, located in <ENAMEX TYPE="LOCATION">Chinchon</ENAMEX> about 60 miles from <ENAMEX TYPE="LOCATION">Seoul</ENAMEX>, will help meet increasing and diversifying demand for control products in <ENAMEX TYPE="LOCATION">South Korea</ENAMEX>, the company said.
+The plant will produce control devices used in motor vehicles and household appliances.

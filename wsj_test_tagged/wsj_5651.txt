@@ -1,0 +1,3 @@
+<ENAMEX TYPE="ORGANIZATION">Tridex Corp.</ENAMEX> said it completed the sale of its <ENAMEX TYPE="ORGANIZATION">Cambridge Products Corp.</ENAMEX> connector business to a subsidiary of <ENAMEX TYPE="ORGANIZATION">Jordan Industries Inc.</ENAMEX>, <ENAMEX TYPE="LOCATION">Deerfield</ENAMEX>, <ENAMEX TYPE="LOCATION">Ill.</ENAMEX>
+<ENAMEX TYPE="ORGANIZATION">Tridex</ENAMEX>, a maker of specialized electronic products for printers and scanners, said it will have ``a substantial gain'' on the sale.
+<ENAMEX TYPE="ORGANIZATION">Jordan Industries</ENAMEX> said it paid more than $12 million for <ENAMEX TYPE="ORGANIZATION">Cambridge Products</ENAMEX>.

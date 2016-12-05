@@ -1,0 +1,13 @@
+<1.09.9.91.10.46.25.jean+@A.GP.CS.CMU.EDU (Jean Harpley).0>
+Type:     cmu.cs.scs
+Topic:    IC Talks rescheduled
+Dates:    5-Sep-91
+Time:     9:00 - 10:20
+PostedBy: jean+ on 09-Sep-91 at 10:46 from A.GP.CS.CMU.EDU (Jean Harpley)
+Abstract: 
+
+Last week it was announced that the Anderson, Berliner and Valdes-Perez talks
+scheduled for Thursday, 9/5 were cancelled and would be rescheduled for this
+week.  Anderson and Berliner will not be giving talks, but Valdes-Perez will
+be speaking after Dave McKeown and Steve Cochran tomorrow (9/10) from 9:00 to
+10:20 in Wean 4605.

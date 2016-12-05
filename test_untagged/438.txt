@@ -1,0 +1,16 @@
+<0.05.11.91.22.10.01.danner+@ERNST.MACH.CS.CMU.EDU (Daniel Stodolsky).0>
+Type:     cmu.cs.scs
+Topic:    Mach Internals Seminar: Physical Memory Management
+Dates:    7-Nov-91
+Time:     1:00
+PostedBy: danner+ on 05-Nov-91 at 22:10 from ERNST.MACH.CS.CMU.EDU (Daniel Stodolsky)
+Abstract: 
+
+Alessandro Forin will be talking about the internals of physical
+memory management system in Mach 3.0 at 1:00 in Wean 7500 on Thursday
+November 7, 1991. All are invited to attend. 
+This talk is part of an ongoing weekly seminar series on the internals
+of Mach 3.0. 
+
+Daniel Stodolsky
+Mach Internals Course Coordinator.

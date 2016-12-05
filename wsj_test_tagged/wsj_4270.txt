@@ -1,0 +1,3 @@
+<ENAMEX TYPE="ORGANIZATION">GTE Corp.</ENAMEX> said its common stock would begin trading on the <ENAMEX TYPE="ORGANIZATION">Tokyo Stock Exchange</ENAMEX> today.
+Officials noted that <ENAMEX TYPE="ORGANIZATION">GTE</ENAMEX> has raised almost $600 million in the <ENAMEX TYPE="LOCATION">Tokyo</ENAMEX> market in recent years, and expects to continue to meet some of its future financial needs through Japanese capital markets.
+<ENAMEX TYPE="ORGANIZATION">GTE</ENAMEX>'s main businesses are telecommunications, lighting and precision materials.

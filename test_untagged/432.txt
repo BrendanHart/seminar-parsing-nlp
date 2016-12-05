@@ -1,0 +1,35 @@
+<0.10.2.94.15.17.41.kk00+@andrew.cmu.edu.0>
+Type:     cmu.cs.scs
+Topic:    HCI Seminar Feb 16
+Dates:    16-Feb-94
+Time:     3:30 - 5:00
+PostedBy: Kathleen P. Kowalski on 10-Feb-94 at 15:17 from andrew.cmu.edu
+Abstract: 
+
+HCI Seminar
+Feb 16
+3:30-5:00
+WeH 5409
+HOW TO FIX COMPUTERS
+Usefulness, usability and productivity.
+
+Tom Landauer
+Director, Cognitive Science Research
+Bellcore
+
+In the last five years or so, many economists and associated pundits
+have born much bad news about the effect of computers on productivity.
+I'll show you the data, and conclude that things probably are just as
+bad as they seem.
+
+Then we'll look for root causes and possible cures. The main problem is that
+computer applications are of little help for improving the efficiency of the
+routine mental work of the information economy, and have been improving too
+slowly. The good news is that simple, cheap, empirical usability
+evaluation and redesign can turn the situation around. Fairly compelling
+evidence will be displayed. 
+
+Further Details:
+
+Please see /afs/cs/user/dandb/hciseminar.txt for a list of upcoming HCI
+seminar speakers.

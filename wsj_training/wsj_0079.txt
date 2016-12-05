@@ -1,0 +1,2 @@
+<ENAMEX TYPE="ORGANIZATION">Eaton Corp.</ENAMEX> said it sold its <ENAMEX TYPE="ORGANIZATION">Pacific Sierra Research Corp.</ENAMEX> unit to a company formed by employees of that unit. Terms weren't disclosed.
+<ENAMEX TYPE="ORGANIZATION">Pacific Sierra</ENAMEX>, based in <ENAMEX TYPE="LOCATION">Los Angeles</ENAMEX>, has about 200 employees and supplies professional services and advanced products to industry. <ENAMEX TYPE="ORGANIZATION">Eaton</ENAMEX> is an automotive parts, controls and aerospace electronics concern.

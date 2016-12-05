@@ -1,0 +1,3 @@
+<ENAMEX TYPE="ORGANIZATION">Candela Laser Corp.</ENAMEX> said it agreed with <ENAMEX TYPE="ORGANIZATION">Medical Care International Inc.</ENAMEX>, a <ENAMEX TYPE="LOCATION">Dallas</ENAMEX>-based operator of outpatient surgical centers, to expand the pilot study of a joint laser-treatment program.
+<ENAMEX TYPE="ORGANIZATION">Candela</ENAMEX> will add 15 vascular-lesion lasers to the five lasers already in <ENAMEX TYPE="ORGANIZATION">Medical Care</ENAMEX> centers across the country.
+<ENAMEX TYPE="ORGANIZATION">Candela</ENAMEX> said it will receive payment based on the number of procedures that are performed with the lasers.

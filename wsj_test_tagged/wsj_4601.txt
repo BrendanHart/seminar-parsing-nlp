@@ -1,0 +1,1 @@
+<ENAMEX TYPE="PERSON">James P. Carolus</ENAMEX>, president of <ENAMEX TYPE="ORGANIZATION">Hillyard Chemical Co.</ENAMEX>, was named a director of this utility, succeeding <ENAMEX TYPE="PERSON">William M. Wyeth III</ENAMEX>, who resigned.

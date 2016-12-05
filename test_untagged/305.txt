@@ -1,0 +1,47 @@
+<0.14.11.94.08.00.37.xu+@IUS4.IUS.CS.CMU.EDU (Yangsheng Xu).0>
+Type:     cmu.cs.robotics
+Who:      John Bares
+          The Robotics Institute
+          Carnegie Mellon University
+Topic:    Dante II and Beyond: Exploration Robots
+Dates:    18-Nov-94
+Time:     3:30 PM - 5:00 PM
+Place:    ADAMSON WING Auditorium in Baker Hall
+Host:     Yangsheng Xu (xu+@cs.cmu.edu)
+PostedBy: xu+ on 14-Nov-94 at 08:00 from IUS4.IUS.CS.CMU.EDU (Yangsheng Xu)
+Abstract: 
+
+
+                       RI SEMINAR
+
+ WHEN:   Friday, Nov 18, 1994; 3:30 pm - 5:00 pm
+        Refreshments will be served starting at 3:15 pm
+
+ WHERE:  ADAMSON WING Auditorium in Baker Hall
+
+ SPEAKER: John Bares
+          The Robotics Institute
+          Carnegie Mellon University
+
+ TITLE:  Dante II and Beyond: Exploration Robots
+
+In the summer of 1994, Dante II successfully descended into the crater
+of an active Alaskan volcano using a combination of walking and
+rappelling locomotion. While linked by satellite to a very remote base
+station, Dante relied on a suite of sensors and semi-autonomous
+operational modes to traverse the very challenging terrain. Once at
+the crater floor, fumarole gas data and detailed video images in
+addition to high resolution laser-built terrain reconstructions were
+viewed live by scientists in several US locations. During its ascent
+out of the crater, Dante tipped over while attempting to climb a steep
+side slope of muddy ash and had to be recovered.
+
+Much was learned in this fast-paced, high risk research project in
+areas ranging from robot configuration to telepresence control to
+field operations and logistics.  One measure of the success of the
+Dante II research is the degree by which the lessons learned can be
+articulated, communicated and applied to future generations of
+exploration robots.
+
+ Host: 		Yangsheng Xu (xu+@cs.cmu.edu)
+ Appointment: 	Ava Cruse (avac@cs.cmu.edu)

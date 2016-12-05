@@ -1,0 +1,1 @@
+<ENAMEX TYPE="PERSON">Stephen C. Hassenfelt</ENAMEX> was elected to the board of this textile manufacturing company. Mr. <ENAMEX TYPE="PERSON">Hassenfelt</ENAMEX>, 39 years old, is chairman and chief executive officer of <ENAMEX TYPE="ORGANIZATION">North Carolina Trust Co.</ENAMEX>, <ENAMEX TYPE="LOCATION">Greensboro</ENAMEX>.

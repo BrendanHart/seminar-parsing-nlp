@@ -1,0 +1,5 @@
+<ENAMEX TYPE="ORGANIZATION">Mcdonnell Douglas Corp.</ENAMEX> was awarded $476.6 million in contracts for 84 Navy F\ aircraft and for logistics support for <ENAMEX TYPE="ORGANIZATION">Army AH</ENAMEX>-64 helicopters.
+<ENAMEX TYPE="ORGANIZATION">Mine Safety Appliances Co.</ENAMEX> was given an $86.8 million <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> contract for chemical masks.
+<ENAMEX TYPE="ORGANIZATION">General Electric Co.</ENAMEX> got a $48.4 million Navy contract for <ENAMEX TYPE="ORGANIZATION">Phalanx</ENAMEX> shipboard-weapons system parts.
+<ENAMEX TYPE="ORGANIZATION">ESL Inc.</ENAMEX> won a $20.9 million <ENAMEX TYPE="ORGANIZATION">Army</ENAMEX> contract for communications equipment.
+<ENAMEX TYPE="ORGANIZATION">Hughes Aircraft Co.</ENAMEX>, a unit of <ENAMEX TYPE="ORGANIZATION">General Motors Corp.</ENAMEX>, received a $20.8 million <ENAMEX TYPE="ORGANIZATION">Army</ENAMEX> contract for TOW missiles.

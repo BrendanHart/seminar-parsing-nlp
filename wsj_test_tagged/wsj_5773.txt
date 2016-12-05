@@ -1,0 +1,6 @@
+<ENAMEX TYPE="ORGANIZATION">Franklin Computer Corp.</ENAMEX>, <ENAMEX TYPE="LOCATION">Mt</ENAMEX>. <ENAMEX TYPE="LOCATION">Holly</ENAMEX>, <ENAMEX TYPE="LOCATION">N.J.</ENAMEX>, said it filed a lawsuit against <ENAMEX TYPE="ORGANIZATION">Smith Corona Corp.</ENAMEX> and one of its distributors for patent and copyright infringement on an electronic spelling machine.
+In a lawsuit filed Sept. 8 in a <ENAMEX TYPE="LOCATION">Camden</ENAMEX>, <ENAMEX TYPE="LOCATION">N.J.</ENAMEX>, U.S. District Court, Franklin alleges that two models of <ENAMEX TYPE="ORGANIZATION">Smith Corona</ENAMEX>'s <ENAMEX TYPE="ORGANIZATION">Spellright</ENAMEX> machine violate Franklin's patent on an electronic spelling machine and copyrights on affiliated software.
+Franklin also claims its <ENAMEX TYPE="LOCATION">New Canaan</ENAMEX>, <ENAMEX TYPE="LOCATION">Conn.</ENAMEX>-based rival is falsely advertising its spelling aids as ``dictionaries'' when no definitions are provided by the machines.
+A spokesman for <ENAMEX TYPE="ORGANIZATION">Smith Corona</ENAMEX> said the company hadn't seen the suit and couldn't comment on it.
+The suit seeks damages estimated at more that $1 million, and an injunction against further infringement.
+<ENAMEX TYPE="ORGANIZATION">Franklin's</ENAMEX> machine, <ENAMEX TYPE="PERSON">Spelling Ace</ENAMEX>, is the company's core product.

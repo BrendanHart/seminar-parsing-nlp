@@ -1,0 +1,5 @@
+<ENAMEX TYPE="ORGANIZATION">Talley Defense Systems Inc.</ENAMEX>, a unit of <ENAMEX TYPE="ORGANIZATION">Talley Industries Inc.</ENAMEX>, won a $21.9 million <ENAMEX TYPE="ORGANIZATION">Army</ENAMEX> contract for artillery projectile components.
+<ENAMEX TYPE="ORGANIZATION">Hazeltine Corp.</ENAMEX> was given a $20.5 million Navy contract for a sonobuoy.
+<ENAMEX TYPE="ORGANIZATION">Electronic Data Systems</ENAMEX>, a unit of <ENAMEX TYPE="ORGANIZATION">General Motors Corp.</ENAMEX>, was given a $17.2 million <ENAMEX TYPE="ORGANIZATION">Army</ENAMEX> contract for computers.
+<ENAMEX TYPE="ORGANIZATION">Hercules Engines Inc.</ENAMEX> was awarded a $13.6 million <ENAMEX TYPE="ORGANIZATION">Army</ENAMEX> contract for truck engines.
+<ENAMEX TYPE="ORGANIZATION">Varian Associates Inc.</ENAMEX> got a $13.5 million Navy contract for microwave tubes.

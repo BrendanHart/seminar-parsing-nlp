@@ -1,0 +1,5 @@
+<ENAMEX TYPE="ORGANIZATION">General Electric Co.</ENAMEX> received a $177.6 million <ENAMEX TYPE="ORGANIZATION">Army</ENAMEX> contract for satellite communications terminals and equipment.
+<ENAMEX TYPE="ORGANIZATION">General Dynamics Corp.</ENAMEX> was awarded $128.9 million in tank-related contracts from the <ENAMEX TYPE="ORGANIZATION">Army</ENAMEX>.
+<ENAMEX TYPE="ORGANIZATION">Motorola Inc.</ENAMEX> won a $69.9 million <ENAMEX TYPE="ORGANIZATION">Army</ENAMEX> contract for ground station equipment.
+<ENAMEX TYPE="ORGANIZATION">Thiokol Inc.</ENAMEX>, a unit of <ENAMEX TYPE="ORGANIZATION">Morton Thiokol Inc.</ENAMEX>, was issued a $27.7 million Navy contract for rocket motors.
+<ENAMEX TYPE="ORGANIZATION">Hughes Aircraft Co.</ENAMEX>, a unit of <ENAMEX TYPE="ORGANIZATION">General Motors Corp.</ENAMEX>, received a $26.1 million <ENAMEX TYPE="ORGANIZATION">Army</ENAMEX> contract for a radar system.

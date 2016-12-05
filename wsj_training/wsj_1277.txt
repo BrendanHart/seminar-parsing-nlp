@@ -1,0 +1,3 @@
+<ENAMEX TYPE="ORGANIZATION">Weyerhaeuser Co.</ENAMEX> said it sold its wall-paneling business to an affiliate of one of <ENAMEX TYPE="LOCATION">Indonesia</ENAMEX>'s largest wood-products firms.
+Terms of the transaction weren't disclosed.
+<ENAMEX TYPE="ORGANIZATION">Weyerhaeuser</ENAMEX> said its paneling business employs about 300 workers at two facilities in <ENAMEX TYPE="LOCATION">Chesapeake</ENAMEX>, <ENAMEX TYPE="LOCATION">Va.</ENAMEX>, and <ENAMEX TYPE="PERSON">Hancock</ENAMEX>, <ENAMEX TYPE="LOCATION">Vt</ENAMEX>.

@@ -1,0 +1,2 @@
+<ENAMEX TYPE="PERSON">ROBERT BLACK</ENAMEX> is president of the <ENAMEX TYPE="ORGANIZATION">Federal Reserve Bank</ENAMEX> of <ENAMEX TYPE="LOCATION">Richmond</ENAMEX>, <ENAMEX TYPE="LOCATION">Va.</ENAMEX> His position was given incorrectly in yesterday's edition.
+(See: ``Economy: U.S. Economy Grows Modestly, <ENAMEX TYPE="ORGANIZATION">Fed</ENAMEX> Report Says -- Regional Conditions Vary; A <ENAMEX TYPE="ORGANIZATION">Speedup</ENAMEX> in <ENAMEX TYPE="LOCATION">Inflation</ENAMEX> Isn't Evident From Data'' -- <ENAMEX TYPE="ORGANIZATION">WSJ</ENAMEX> Sept. 21, 1989

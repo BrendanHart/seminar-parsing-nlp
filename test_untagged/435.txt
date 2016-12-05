@@ -1,0 +1,49 @@
+<0.18.2.94.16.54.50.plp+@PHYLLIS.ADM.CS.CMU.EDU (Phyllis Pomerantz).0>
+Type:     AI Seminar
+Who:      Eugene Charniak
+Topic:    Improved Statistical Language Models from Syntactic Parsing
+Dates:    22-Feb-94
+Time:     3:30 PM
+Place:    5409 Wean Hall
+Host:     Danny Sleator
+PostedBy: plp+ on 18-Feb-94 at 16:54 from PHYLLIS.ADM.CS.CMU.EDU (Phyllis Pomerantz)
+Abstract: 
+
+
+ Type:     AI Seminar
+ Who:      Eugene Charniak
+ Topic:    Improved Statistical Language Models from Syntactic Parsing
+ Dates:    22-Feb-94
+ Time:     3:30 p.m.
+ Place:    5409 Wean Hall
+ Host:     Danny Sleator
+
+Improved Statistical Language Models from Syntactic Parsing
+Eugene Charniak
+Brown University
+
+A statistical language model assigns a probability to every sequence of
+words such that common sequences in the language ("I have a headache") have
+high probability and uncommon ones ("Headache a have I") have low.  Such
+models are of most obvious use in speech recognition, but they have many
+other uses as well.  The current ``gold standard'' in statistical language
+models is the trigram model, which estimates the probability of each
+successive word using statistics gathered on the probability of the word
+given the last two words.  This is very dumb, but remarkably successful.  We
+hope to create better models using more standard NLU techniques.  We hope to
+model the language by first parsing the sentence, then collecting statistics
+based upon the parse (not just the last few words).
+
+In this talk we concentrate on the first of these steps and look in
+particular at probabilistic context-free grammar learning.  Our scheme
+starts with a restricted form of context-free grammar such that only a
+finite number of rules apply to any given sentence.  Starting with these
+rules, we then remove excess rules using the ``inside-outside'' algorithm.
+We concentrate on two interesting modifications of this scheme.  In the
+first we create several different grammars for the language using different
+subsets of our training data and then merge them.  Interestingly, this
+significantly improves the quality of the learned grammar.  In the second we
+learn a ``pseudo-context-sensitive'' grammar by collecting extra statistics
+on rule application (``pseudo'' because the resulting formalism could be put
+back into context-free form by multiplying out the non-terminals of the
+language).  This too leads to significant improvements.

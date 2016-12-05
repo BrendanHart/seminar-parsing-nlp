@@ -1,0 +1,3 @@
+<ENAMEX TYPE="ORGANIZATION">Olin Corp.</ENAMEX> won a $53.4 million <ENAMEX TYPE="ORGANIZATION">Army</ENAMEX> contract for tank ammunition.
+<ENAMEX TYPE="ORGANIZATION">Sabreliner Corp.</ENAMEX> was given a $14.6 million <ENAMEX TYPE="ORGANIZATION">Army</ENAMEX> contract for turbine-engine overhauls.
+<ENAMEX TYPE="ORGANIZATION">Dyncorp</ENAMEX> received an $11.6 million <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> contract for pilot-training support.

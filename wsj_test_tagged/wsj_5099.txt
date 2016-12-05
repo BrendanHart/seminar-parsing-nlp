@@ -1,0 +1,3 @@
+<ENAMEX TYPE="ORGANIZATION">Bank South Corp.</ENAMEX> said it contracted out its data-processing operations to <ENAMEX TYPE="ORGANIZATION">International Business Machines Corp.</ENAMEX> as part of a cost-saving restructuring.
+Financial terms of the agreement weren't disclosed, but the companies said <ENAMEX TYPE="ORGANIZATION">IBM</ENAMEX> will build, design and operate a new data center for the <ENAMEX TYPE="LOCATION">Atlanta</ENAMEX>-based bank holding company. <ENAMEX TYPE="ORGANIZATION">Bank South</ENAMEX> said the agreement is expected to result in substantial savings over a 10-year period.
+Earlier this month, <ENAMEX TYPE="ORGANIZATION">Bank South</ENAMEX> said it planned to cut its work force by about 300 jobs as part of the restructuring.

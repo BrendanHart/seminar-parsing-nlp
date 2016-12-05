@@ -1,0 +1,29 @@
+<0.28.2.95.16.29.20.baraff@TURNOVER.GRAPHICS.CS.CMU.EDU.0>
+Type:     cmu.cs.robotics
+Who:      Paolo Dario
+          Professor and Director
+          ARTS Lab
+          University of Pisa
+Topic:    Robots for the Assistance to the Disabled and the Elderly:
+          Current Status and Perspectives
+Dates:    3-Mar-95
+Time:     3:30 PM - 5:00 PM
+Place:    ADAMSON WING Auditorium in Baker Hall
+PostedBy: baraff on 28-Feb-95 at 16:29 from TURNOVER.GRAPHICS.CS.CMU.EDU
+Abstract: 
+
+                       RI SEMINAR
+
+ WHEN:     Friday, March 3, 1995; 3:30 pm - 5:00 pm
+          Refreshments will be served starting at 3:15 pm.
+
+ WHERE:    ADAMSON WING Auditorium in Baker Hall
+
+ SPEAKER:  Paolo Dario
+ 	  Professor and Director
+ 	  ARTS Lab
+ 	  University of Pisa
+
+ TITLE:	  Robots for the Assistance to the Disabled and the Elderly:
+ 	  Current Status and Perspectives
+

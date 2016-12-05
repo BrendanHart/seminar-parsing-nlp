@@ -1,0 +1,1 @@
+<ENAMEX TYPE="PERSON">Fred D. Thompson</ENAMEX>, a 47-year-old attorney in private practice in <ENAMEX TYPE="LOCATION">Washington</ENAMEX> and <ENAMEX TYPE="LOCATION">Nashville</ENAMEX>, <ENAMEX TYPE="LOCATION">Tenn.</ENAMEX>, was elected to the board of this engineering and construction company. The board increased to 11 seats.

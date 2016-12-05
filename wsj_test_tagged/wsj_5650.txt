@@ -1,0 +1,5 @@
+<ENAMEX TYPE="ORGANIZATION">Cognex Corp.</ENAMEX> said it entered into a four-year agreement to sell machine-vision systems to <ENAMEX TYPE="ORGANIZATION">Komatsu Ltd.</ENAMEX> of <ENAMEX TYPE="LOCATION">Japan</ENAMEX>.
+Machine-vision computer systems are used to replace human vision in manufacturing processes.
+Under the agreement, <ENAMEX TYPE="LOCATION">Tokyo</ENAMEX>-based <ENAMEX TYPE="ORGANIZATION">Komatsu</ENAMEX> will buy from Cognex all machine-vision systems required for use in vision products to be developed both for the Japanese company's internal use and for sale to others. <ENAMEX TYPE="ORGANIZATION">Komatsu</ENAMEX> makes heavy equipment used in construction.
+Terms weren't disclosed, but <ENAMEX TYPE="ORGANIZATION">Cognex</ENAMEX> said it expects the multimillion-dollar partnership agreement to help it reach new machine-vision markets in <ENAMEX TYPE="LOCATION">Japan</ENAMEX>.
+<ENAMEX TYPE="ORGANIZATION">Komatsu</ENAMEX> initially will use the <ENAMEX TYPE="ORGANIZATION">Cognex</ENAMEX> systems to develop products to perform such tasks as reading and inspection in industrial applications.

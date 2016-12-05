@@ -1,0 +1,3 @@
+<ENAMEX TYPE="ORGANIZATION">Eagle Industries Inc.</ENAMEX> said it acquired <ENAMEX TYPE="ORGANIZATION">Amerace Corp.</ENAMEX>, a <ENAMEX TYPE="LOCATION">Parsippany</ENAMEX>, <ENAMEX TYPE="LOCATION">N.J.</ENAMEX>, maker of electrical-cable connectors and highway-safety products. Terms weren't disclosed.
+The capital-goods manufacturer said closely held <ENAMEX TYPE="ORGANIZATION">Amerace</ENAMEX> had revenue of $244.5 million for its fiscal year ended October 31. Eagle had revenue of $843.9 million for its fiscal year ended July 31.
+Eagle is a unit of <ENAMEX TYPE="ORGANIZATION">Great American Management & Investment Inc.</ENAMEX>, which is controlled by <ENAMEX TYPE="PERSON">Samuel Zell</ENAMEX> and <ENAMEX TYPE="PERSON">Robert Lurie</ENAMEX>.

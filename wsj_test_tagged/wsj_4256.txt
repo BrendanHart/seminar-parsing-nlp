@@ -1,0 +1,2 @@
+<ENAMEX TYPE="ORGANIZATION">AGS INFORMATION SERVICES Inc.</ENAMEX> is a unit of <ENAMEX TYPE="ORGANIZATION">Nynex Corp.</ENAMEX> Wednesday's edition misstated the unit's name.
+(See: ``<ENAMEX TYPE="LOCATION">New Computerized</ENAMEX> Order-Entry <ENAMEX TYPE="ORGANIZATION">Device</ENAMEX> Unveiled by <ENAMEX TYPE="ORGANIZATION">Comex</ENAMEX>'' -- <ENAMEX TYPE="ORGANIZATION">WSJ</ENAMEX> Sept. 28, 1989

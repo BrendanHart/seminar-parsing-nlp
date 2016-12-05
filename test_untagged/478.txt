@@ -1,0 +1,39 @@
+<0.21.4.92.11.15.11.lydia+@PROOF.ERGO.CS.CMU.EDU (Lydia Defilippo).0>
+Type:     cmu.cs.scs
+Who:      Leslie Lamport
+          Digital Equipment Corporation
+          Systems Research Center
+Topic:    The Temporal Logic of Actions
+Dates:    28-Apr-92
+Time:     3:30 PM
+Place:    Wean Hall 4623
+PostedBy: lydia+ on 21-Apr-92 at 11:15 from PROOF.ERGO.CS.CMU.EDU (Lydia Defilippo)
+Abstract: 
+
+
+				SPECIAL SEMINAR
+
+ Speaker:  Leslie Lamport
+           Digital Equipment Corporation
+           Systems Research Center
+
+ Date:     Tuesday, April 28
+ Time:     3:30 pm
+ Place:    Wean Hall 4623
+ Topic:    The Temporal Logic of Actions
+
+Traditional verification employs a programming language for writing the 
+program, and a logic for expressing its properties.  When verifying 
+concurrent programs, we reason about an abstract program that is not meant 
+to be directly compiled and executed, so we don't have to use a programming 
+language.  Contrary to what one might conclude from the literature, logic 
+can be simpler than programming languages.  With the right logic, it is 
+easy to express a program as a logical formula.  The distinction between 
+properties and programs then vanishes, and specifications can be written 
+as simple programs.  Proving that one program implements another is no 
+different from proving that a program satisfies a property.
+
+The temporal logic of actions is the right logic.  It provides a tool that 
+can help us cope with the complexity of verifying real concurrent algorithms.
+
+No previous fondess for logic is assumed.

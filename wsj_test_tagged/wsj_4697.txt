@@ -1,0 +1,3 @@
+<ENAMEX TYPE="LOCATION">Greece</ENAMEX>'s consumer price index for August was 0.3% higher than in <ENAMEX TYPE="LOCATION">July</ENAMEX>, and 14% higher than in August 1988, according to statistics from the <ENAMEX TYPE="ORGANIZATION">National Economy Ministry</ENAMEX>.
+The ministry attributed last month's rise to a 5% increase in foodstuffs.
+The <ENAMEX TYPE="LOCATION">CPI</ENAMEX> registered 312.8 based on a measure of 100 for 1982. The index isn't seasonally adjusted.

@@ -1,0 +1,37 @@
+<0.8.9.92.12.13.12.tmeadows@resumix.portal.com (Tim Meadows).0>
+Type:     cmu.cs.scs
+Who:      DR. Navin Chandra - Research Scientist - 
+          Robotics Institute - CMU
+Topic:    Green Engineering: Rethinking Engineering Design And  
+          Manufacturing From The Environmental Perspective.
+Dates:    11-Sep-92
+Time:     3:30 - 5:00 PM
+Place:    BAKER HALL ADAMSON WING
+PostedBy: tmeadows on 8-Sep-92 at 12:13 from resumix.portal.com (Tim Meadows)
+Abstract: 
+
+RI SEMINAR
+
+ WHEN:	Friday, Sept. 11, 1992; 3:30 - 5:00 PM
+	Refreshments will be served by 3:15 PM
+
+ WHERE:	BAKER HALL ADAMSON WING
+
+ SPEAKER: 	DR. Navin Chandra - Research Scientist - 
+ 	Robotics Institute - CMU
+
+ Title: 	Green Engineering: Rethinking Engineering Design And  
+ 	Manufacturing From The Environmental Perspective.
+
+Green Engineering is an approach to product and process design that
+achieves environmental friendliness without compromising a product's quality or its commercial viability.  The implications of green engineering are far reaching. Product design has to now include issues relating to disposal and reuse. Manufacturing has to include disassembly and remanufacture (de-manufacturing). Economic planning has to include revenues from post consumer marketing.
+
+Over the past two decades, a lot of research and effort has been put
+into understanding issues such as waste management and materials recovery, as they relate to products after they enter the waste stream.  Attention is now being focussed on the product design.  Our idea is to inject concerns about environmental friendliness into the design process, where, the assessment of environmental friendliness is based on a life-cycle view of the product.  This includes the product's manufacturing process, distribution, use, and final disposal.
+
+This talk provides an overview of the "Design for Environment" effort at CMU. Including the role of robotics, CAD tools and environmental analysis. This research grew out of work in traditional concurrent engineering and was called the Green Engineering Project in 1989.  The project has concentrated on the engineering and economic issues of being environmentally compatible.
+
+Hosted by: Hagen Schempf, x6884
+
+************************************
+

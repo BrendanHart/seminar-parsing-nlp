@@ -1,0 +1,4 @@
+<ENAMEX TYPE="ORGANIZATION">Mcdonnell Douglas Corp.</ENAMEX> received contracts totaling $244.8 million for 72 F-A-18 aircraft for the <ENAMEX TYPE="ORGANIZATION">Navy</ENAMEX> and helicopter spare parts for the <ENAMEX TYPE="ORGANIZATION">Army</ENAMEX>.
+Aerojet <ENAMEX TYPE="ORGANIZATION">General Corp.</ENAMEX>, a unit of <ENAMEX TYPE="ORGANIZATION">Gencorp Inc.</ENAMEX>, was awarded a $40.1 million <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> contract for <ENAMEX TYPE="LOCATION">Minuteman</ENAMEX> missile rocket motors. contract for submarine ballistic missiles.
+<ENAMEX TYPE="ORGANIZATION">Honeywell Inc.</ENAMEX> got a $22.3 million Navy contract for aircraft missile warning sets.
+<ENAMEX TYPE="ORGANIZATION">Beech Aircraft Corp.</ENAMEX>, a unit of <ENAMEX TYPE="ORGANIZATION">Raytheon Co.</ENAMEX>, received an $11.5 million <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> contract for C-12 aircraft support.

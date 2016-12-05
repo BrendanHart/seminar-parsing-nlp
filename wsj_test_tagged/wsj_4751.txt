@@ -1,0 +1,3 @@
+<ENAMEX TYPE="ORGANIZATION">Telos Corp.</ENAMEX> said it signed a $20 million contract with <ENAMEX TYPE="ORGANIZATION">Jet Propulsion Laboratories</ENAMEX> for software engineering services over a three-year period.
+<ENAMEX TYPE="ORGANIZATION">Telos</ENAMEX>, a defense-oriented computer concern, said the contract has a maximum value of $60 million, depending on the amount of work required by <ENAMEX TYPE="ORGANIZATION">Jet</ENAMEX>, a closely held research concern based in <ENAMEX TYPE="LOCATION">Pasadena</ENAMEX>, <ENAMEX TYPE="LOCATION">Calif.</ENAMEX>
+<ENAMEX TYPE="ORGANIZATION">Telos</ENAMEX>, based here, said it provides extensive services to Jet under a total of six contracts, of which this is the largest.

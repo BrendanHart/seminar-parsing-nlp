@@ -1,0 +1,40 @@
+<0.8.1.93.23.10.34.maa+@ISL1.RI.CMU.EDU (Michelle Agie).0>
+Type:     cmu.cs.robotics
+Who:      PAUL S. HECKBERT, Computer Science Dept., Carnegie Mellon Univ.
+Topic:    FILTERS FOR IMAGE RESAMPLING
+Dates:    15-Jan-93
+Time:     3:30 PM - 5:00 PM
+Place:    ADAMSON WING Auditorium in Baker Hall
+PostedBy: maa+ on 8-Jan-93 at 23:10 from ISL1.RI.CMU.EDU (Michelle Agie)
+Abstract: 
+
+
+ WHEN:   Friday, Jan 15, 1993; 3:30 pm - 5:00 pm
+        Refreshments will be served by 3:15 pm
+
+ WHERE:  ADAMSON WING Auditorium in Baker Hall
+
+ SPEAKER: PAUL S. HECKBERT, Computer Science Dept., Carnegie Mellon Univ.
+
+ TITLE: FILTERS FOR IMAGE RESAMPLING
+
+A common problem in image processing is resampling a raster image.
+This task crops up when removing distortions from satellite images and
+when performing texture mapping in computer graphics, for example.
+Careful filtering must be done during resampling or the results will
+appear blocky or show aliasing.  Traditionally, most research in
+resampling has addressed special cases.  Often, the class of mappings
+is restricted to be affine (translation, rotation, and scaling), in
+which case the filter is space invariant.  Furthermore, filters are
+often designed for interpolation (upsampling) only or decimation
+(downsampling) only.
+
+In this talk, we develop a unified theory for image resampling filters,
+which subsumes previous methods for affine mappings, interpolation, and
+decimation.  The theory describes the space variant filter for
+resampling a multidimensional signal according to an arbitrary mapping
+without aliasing.  A simple, fast approximation technique employing
+elliptical Gaussian filters will be demonstrated.
+
+Refreshments Will be served by 3:15pm*
+

@@ -1,0 +1,43 @@
+<0.8.2.91.12.27.01.L.R.Adkins-Shellie@B.GP.CS.CMU.EDU.0>
+Type:     cmu.cs.robotics
+Who:      Reid Simmons, School of Computer Science, CMU
+Topic:    An Autonomous Walking Robot for Planetary Exploration
+Dates:    8-Feb-91
+Time:     3:30 PM
+Place:    Baker Hall, Adamson Wing
+Host:     Michael Erdmann, x7883
+PostedBy: L.R.Adkins-Shellie on 8-Feb-91 at 12:27 from B.GP.CS.CMU.EDU
+Abstract: 
+
+
+ Speaker:  Reid Simmons, School of Computer Science, CMU
+ Title:    An Autonomous Walking Robot for Planetary Exploration
+ Date:     Friday, February 8, 1991
+ Time:     3:30 p.m. until 4:30 p.m.
+ Location: Baker Hall, Adamson Wing
+ Host:     Michael Erdmann, x7883
+
+In the coming decades, man will probably send robots to explore the solar
+system.  In particular, we envision the need for mobile robots that can
+navigate, map, and acquire samples on another planet, such as Mars.  To
+perform these tasks in such isolated and uncertain environments, the robots
+must be highly reliable and fairly autonomous.
+
+The CMU Planetary Rover project has built the Ambler, a highly mobile and
+energy efficient six-legged walking robot.  Integrating the component
+technologies of planning, perception and real-time control, we have
+developed a system that autonomously walks the Ambler over rugged terrain.
+The talk will describe research results in real-time control of many degrees
+of freedom, perception of rugged terrain using a laser range-finder, and
+gait, footfall, and leg-recovery planning.  The components are integrated
+using the distributed Task Control Architecture (TCA), which supports
+concurrent planning, execution, monitoring, and error recovery.  The talk
+will describe our integration efforts and the strategies employed for
+ensuring reliable and competent performance of the Ambler.
+
+----------
+Refreshments will be served from 3:15-3:30.  
+Discussion and questions:  4:30-5:00.
+Everyone in the CMU community is invited to attend.
+----------
+

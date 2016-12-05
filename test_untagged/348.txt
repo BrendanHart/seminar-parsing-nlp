@@ -1,0 +1,55 @@
+<0.09.4.92.11.29.39.plp+@PHYLLIS.ADM.CS.CMU.EDU (Phyllis Pomerantz).0>
+Type:     cmu.cs.robotics
+Topic:    Reminder: Manocha Talk today
+Dates:    9-Apr-92
+Time:     3:30 PM
+PostedBy: plp+ on 09-Apr-92 at 11:29 from PHYLLIS.ADM.CS.CMU.EDU (Phyllis Pomerantz)
+Abstract: 
+x
+                               FACULTY CANDIDATE
+
+                    Non-Linear Geometry and Linear Algebra
+
+                                DINESH MANOCHA
+                     University of California at Berkeley
+
+                            Thursday, 9 April 1992
+                                    3:30 PM
+                                Wean Hall 4623
+   Many  problems  in  computer  graphics,  geometric  and  solid  modeling,
+   robotics, vision, symbolic and  scientific  computation  are  reduced  to
+   manipulating  system  of  polynomial  equations.  In  particular, sets of
+   equations are used for object representation and constraints formulation.
+   Typical  applications  include  curve  and  surface  intersections, robot
+   motion  planning,  ray  tracing,  generating  images,  cusps  and   loops
+   detection,   inverse  kinematics,  animation,  symbolic  elimination  and
+   solving systems of non--linear equations. Earlier approaches to deal with
+   these  problems  can  be  classified  into  symbolic and numeric methods.
+   Symbolic techniques, like Groebner bases, are too slow  and  suffer  from
+   numerical accuracy problems in the context of floating point computation.
+   At the same  time  numerical  methods  based  on  subdivision,  iterative
+   techniques  and  continuation  are  far  from  being  robust  and slow in
+   practice as well.
+
+   In this  talk  we  present  multipolynomial  resultants  and  show  their
+   effectiveness  for  manipulating  system  of  polynomial  equations.  The
+   resultant is represented in terms of  matrices  and  determinants.  As  a
+   result,  we  use  algorithms  from  linear algebra for their application.
+   These include multivariate  interpolation  and  modular  computation  for
+   symbolic applications and Gauss elimination, singular value decomposition
+   and eigendecomposition for  numeric  methods.  Based  on  multipolynomial
+   resultants  we  present  efficient  algorithms for implicitizing rational
+   parametric surfaces and eliminating a set of variables from a  system  of
+   equations  to  obtain  a  symbolically  smaller system. We also apply the
+   results to the problem of curve and  surface  intersections  and  present
+   efficient  and  robust  representations  and algorithms for geometric and
+   solid modeling systems. The technique can also  be  specialized  for  ray
+   tracing  and  detecting  cusps  and loops. Finally we present a real time
+   algorithm for the inverse kinematics of general six revolute  and  serial
+   manipulators. Inverse kinematics of general six revolute manipulators had
+   been an open problem in industrial robotics for more than  three  decades
+   and  had significant impact on the design of robot manipulators.  We also
+   highlight its application for interactive computer animation and physical
+   based modeling.
+
+                  Coffee and Doughnuts in WeH 4623 at 3:15 PM

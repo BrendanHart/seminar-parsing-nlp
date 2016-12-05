@@ -1,0 +1,4 @@
+e
+<ENAMEX TYPE="ORGANIZATION">WASHINGTON</ENAMEX> -- <ENAMEX TYPE="ORGANIZATION">United Technologies Corp.</ENAMEX> won an $18 million <ENAMEX TYPE="ORGANIZATION">Army</ENAMEX> contract for helicopter modifications and spare parts.
+The company will modify one UH-60A Blackhawk transport helicopter to the prototype MH-60K configuration for use by military special forces.
+<ENAMEX TYPE="ORGANIZATION">Ingalls Shipbuilding Inc.</ENAMEX>, a division of <ENAMEX TYPE="ORGANIZATION">Litton Industries Inc.</ENAMEX>, was given a $15.5 million extension on a contract for shipyard services.

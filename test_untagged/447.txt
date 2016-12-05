@@ -1,0 +1,61 @@
+<0.20.9.94.15.29.08.prs+@N2.SP.CS.CMU.EDU (peter steenkiste).0>
+Type:     cmu.cs.scs
+Topic:    9/23 CS/PSC Seminar
+Dates:    23-Sep-94
+Time:     4:00 PM
+Place:    Wean Hall 5409
+          CMU
+PostedBy: prs+ on 20-Sep-94 at 15:29 from N2.SP.CS.CMU.EDU (peter steenkiste)
+Abstract: 
+
+
+ 		  Tempest: User-Level Shared Memory
+
+			     David Wood
+		     Computer Sciences Department
+		       University of Wisconsin
+		       1210 West Dayton Street
+			  Madison, WI 53706
+
+Future parallel computers must execute efficiently both hand-coded
+applications and also programs written in high-level programming
+languages.  Today's machines limit programs to a single communication
+paradigm---message-passing or shared-memory---which results in uneven
+performance.  To address this problem, we have developed the Tempest
+interface, which supports shared-memory, message-passing, and hybrid
+applications.  Tempest enhances portability of parallel programs by
+allowing low-cost networks of workstations to provide the same
+abstractions (e.g., shared memory) as high-performance parallel
+machines.
+
+The Tempest interface consists of low-level communication and
+memory-system mechanisms.  Policies, such as shared memory, are
+implemented in user-level software, which allows programmers and
+compilers to customize policies to an application's semantics and
+sharing patterns.  Experiments show that custom cache coherency
+policies can produce upto an order-of-magnitude performance
+improvement.
+
+We have completed two implementations of the Tempest interface.
+Typhoon illustrates the performance of first-class hardware support
+for Tempest.  This proposed hardware system implements Tempest using a
+fully-programmable, user-level processor in the network interface.
+Blizzard demonstrates Tempest's portability by implementing the
+interface in software running on stock hardware (a Thinking Machines
+CM-5).  We are currently developing a third Tempest implementation by
+porting Blizzard to the Wisconsin COW (Cluster Of Workstations).
+
+This work is part of the Wisconsin Wind Tunnel project, co-led by
+Mark Hill, James Larus, and David Wood.
+
+                         Date:   Friday, September 23, 1994
+
+                         Time:   4 p.m.
+
+                         Place:  Wean Hall 5409
+ 				CMU
+
+Refreshments served at 3:45
+
+The speaker will be here all day Friday.  Please contact 
+Barbara Sandling (sandling@cs) if you want to talk to him.

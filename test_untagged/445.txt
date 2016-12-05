@@ -1,0 +1,24 @@
+<0.16.9.94.14.14.59.prs+@N2.SP.CS.CMU.EDU (peter steenkiste).5>
+Type:     cmu.cs.scs
+Topic:    Calendar joint CS-PSC seminar series
+Dates:    21-Oct-94
+Time:     4:00 PM
+PostedBy: prs+ on 16-Sep-94 at 14:14 from N2.SP.CS.CMU.EDU (peter steenkiste)
+Abstract: 
+
+Appended is the calendar for Fall joint CS-PSC seminar series.  
+I will post weekly reminders with an abstract.
+
+All seminars are on Friday at 4, unless otherwise noted.  Most 
+speakers spend some time in Pittsburgh to find out about ongoing 
+research.  Please contact Barbara Sandling if you want to talk to 
+the speaker,
+
+Peter
+-----------------
+
+Oct 21
+
+"Biomechanics"
+George Lea, National Science Foundation
+Mellon Institute, 3rd Floor Conference Room, 4:00 p.m.

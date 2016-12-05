@@ -1,0 +1,3 @@
+<ENAMEX TYPE="ORGANIZATION">Corning Inc.</ENAMEX> said it is increasing by 25% the capacity of its optical-fiber manufacturing facility. The company said the plant, in <ENAMEX TYPE="LOCATION">Wilmington</ENAMEX>, <ENAMEX TYPE="LOCATION">N.C.</ENAMEX>, is a leading fiber-producing plant in the world.
+<ENAMEX TYPE="ORGANIZATION">Corning</ENAMEX> said the increase is the first of several capacity expansions anticipated over the next 18 months.
+<ENAMEX TYPE="ORGANIZATION">Corning</ENAMEX> is a telecommunications, specialty glass, ceramic products and laboratory-services concern.

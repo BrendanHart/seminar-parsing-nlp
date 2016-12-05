@@ -1,0 +1,58 @@
+<0.14.4.92.15.06.07.petel+@STICKY.MESS.CS.CMU.EDU (Peter Lee).0>
+Type:     cmu.cs.scs
+Who:      Eliot Moss, UMass
+Topic:    Special PS Seminar 4/26
+Dates:    16-Apr-92
+Time:     2:00 PM
+Place:    WeH 4623
+Host:     Peter Lee.  If you would like an appointment with the speaker,
+          please contact michelle@cs.
+PostedBy: petel+ on 14-Apr-92 at 15:06 from STICKY.MESS.CS.CMU.EDU (Peter Lee)
+Abstract: 
+
+ Who: Eliot Moss, UMass
+ When: Thursday, 4/16, 2pm
+ Where: WeH 4623
+ What:
+
+              A Language Independent Garbage Collector Toolkit
+
+                            J. Eliot B. Moss
+                     Department of Computer Science
+                       University of Massachusetts
+                      Amherst, Massachusetts  01003
+                            moss@cs.umass.edu
+
+In the course of implementing two languages simultaneously, we recently faced
+the prospect of building two garbage collectors. We turned laziness into a
+virtue and considered the problem of designing a framework and garbage
+collector components that could be used in more than one language
+implementation. This resulted in the Language Independent Garbage Collector
+Toolkit, which offers very flexible generation scavenging with a variety of
+write barrier (store check) implementations. This talk will present the design
+of the toolkit, explain its sources of flexibility, and indicate where and how
+the toolkit relies on the language implementation for language specific
+support. The toolkit does not impose any particular format on heap allocated
+objects, pointers, or stacks; nor does it mandate any specific approach to
+implementing the write barrier. We have implemented the toolkit, and use it in
+our Smalltalk implementation. We are currently building implementations of
+Modula-3 and Standard ML using the toolkit.
+
+Our approach requires accurate identification of pointers (versus non-pointer
+quantities), and the ability to move objects. We have designed and implemented
+the compiler extensions necessary to support accurate garbage collection in
+the face of modern compiler optimizations for statically typed imperative
+languages such as Modula-3. We have also devised a new technique called Mature
+Object Space for insuring short collector pause times while guaranteeing
+eventual collection of large generations, i.e., generations that cannot be
+processed during one pause. Finally, we have some performance measurements of
+various write barrier implementations on a small suite of Smalltalk
+benchmarks. Beyond presenting the toolkit, we will discuss the compiler
+extensions, mature object space, and the write barrier results as time
+permits.
+
+Collaborators in this work include: Amer Diwan, Tony Hosking, Rick Hudson, and
+Darko Stefanovic.
+
+ Host: Peter Lee.  If you would like an appointment with the speaker,
+ please contact michelle@cs.

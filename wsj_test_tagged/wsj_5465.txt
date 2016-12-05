@@ -1,0 +1,3 @@
+<ENAMEX TYPE="ORGANIZATION">Computer Factory Inc.</ENAMEX> directors adopted an anti-takeover plan it said would protect shareholders from ``coercive or unfair takeover tactics.''
+The plan, similar to those adopted by many other companies, gives shareholders the right to purchase shares in an acquiring company at half-price, a step intended to make an unwelcome takeover prohibitively expensive.
+<ENAMEX TYPE="ORGANIZATION">Computer Factory</ENAMEX>, <ENAMEX TYPE="LOCATION">Elmsford</ENAMEX>, <ENAMEX TYPE="LOCATION">N.Y.</ENAMEX>, markets microcomputer products and business-automation systems through retail stores.

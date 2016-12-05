@@ -1,0 +1,43 @@
+<0.11.10.91.11.58.40.trg+@IUS3.IUS.CS.CMU.EDU (Thomas Gross).0>
+Type:     cmu.cs.scs
+Topic:    PSC Seminar today @ 4:00: Tera Comp.
+Dates:    11-Oct-91
+Time:     4:00
+PostedBy: trg+ on 11-Oct-91 at 11:58 from IUS3.IUS.CS.CMU.EDU (Thomas Gross)
+Abstract: 
+
+
+			The TERA Computer System
+		             Burton J. Smith
+
+ 		       Pittsburgh Supercomputing Center
+                          Mellon Institute Bldg.
+			Third Floor Conference Room             
+				Oct 11, 4:00 p.m.
+
+(If you don't know where this room is, meet at 3:45 p.m. at the 5th floor 
+entrance and we can walk over together.)
+
+          The TERA Computer System is a scalable shared memory MIMD computer.
+	  Although it has no vector instructions, the 256 processor version
+	  will have peak performance of about 300 GFLOPS.  The arithmetic
+	  will conform to IEEE standard 754.  The system's I/O cache, used 
+	  with disk arrays, will enable file system bandwidths of 70
+	  gigabytes per second or more.  The languages available will be
+	  Fortran 77, C and C++, and the programming environment will support
+	  a mixture of explicit programmer-generated and aggressive compiler-
+	  generated parallelism.  Tools will be provided to help users 
+	  re-engineer programs for parallel execution and to debug optimized,
+	  parallelized code.  A 16-processor system will be available for
+	  customer benchmarking in first quarter 1991.  First system 
+	  deliveries are scheduled for fourth quarter 1993.
+
+	  The talk will describe the overall architecture of the system and
+	  its hardware implementation; the programming environment and
+	  associated tools; the operating system, including the file system;
+	  and the company's status and long-range plans.
+
+-----
+Burton Smith is the president of Tera Inc.   Previously, he was the chief
+architect of the HEP computer, a "barrel processor" introduced in the mid
+80's.

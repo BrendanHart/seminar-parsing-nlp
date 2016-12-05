@@ -1,0 +1,11 @@
+<ENAMEX TYPE="ORGANIZATION">Westinghouse Electric Corp.</ENAMEX> won a $132.6 million <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> contract for communications equipment and aircraft electronics.
+A joint venture of <ENAMEX TYPE="ORGANIZATION">Computer Sciences Corp.</ENAMEX> and <ENAMEX TYPE="ORGANIZATION">Raytheon Co.</ENAMEX> received a $69.6 million <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> contract for missile-range technical services. <ENAMEX TYPE="ORGANIZATION">Raytheon</ENAMEX> also was given a $63.4 million Navy contract for electronic-warfare systems.
+<ENAMEX TYPE="ORGANIZATION">Litton Systems Inc.</ENAMEX>, a unit of <ENAMEX TYPE="ORGANIZATION">Litton Inc.</ENAMEX>, received $68.6 million in <ENAMEX TYPE="ORGANIZATION">Army</ENAMEX> and <ENAMEX TYPE="ORGANIZATION">Navy</ENAMEX> contracts for electronics equipment and aircraft-navigation equipment.
+<ENAMEX TYPE="ORGANIZATION">ITT Corp.</ENAMEX> got $62.7 million in <ENAMEX TYPE="ORGANIZATION">Army</ENAMEX> and <ENAMEX TYPE="ORGANIZATION">Navy</ENAMEX> contracts for radios and telephone equipment.
+<ENAMEX TYPE="ORGANIZATION">General Dynamics Corp.</ENAMEX> was given a $58 million <ENAMEX TYPE="ORGANIZATION">Army</ENAMEX> contract for tank sights.
+<ENAMEX TYPE="ORGANIZATION">International Business Machines Corp.</ENAMEX> won a $50 million <ENAMEX TYPE="ORGANIZATION">Army</ENAMEX> contract for communications equipment.
+<ENAMEX TYPE="ORGANIZATION">Boeing Co.</ENAMEX> was issued a $39.9 million <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> contract for space-rocket boosters.
+<ENAMEX TYPE="ORGANIZATION">General Electric Co.</ENAMEX> received $35 million in contracts for <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> radar equipment and Army sensor systems.
+<ENAMEX TYPE="ORGANIZATION">Martin Marietta Corp.</ENAMEX> won a $32.4 million Air Force contract for <ENAMEX TYPE="ORGANIZATION">Titan</ENAMEX> IV rocket motors.
+<ENAMEX TYPE="ORGANIZATION">Honeywell Inc.</ENAMEX> received $28.4 million in contracts for Navy electronics equipment and Army batteries.
+Amclyde Engineered products, a unit of <ENAMEX TYPE="ORGANIZATION">Amca International Corp.</ENAMEX>, received a $26.4 million Navy contract for cranes.

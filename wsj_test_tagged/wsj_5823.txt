@@ -1,0 +1,2 @@
+<ENAMEX TYPE="ORGANIZATION">Boeing Co.</ENAMEX> said it signed a $117 million, four-year contract with the <ENAMEX TYPE="ORGANIZATION">Republic</ENAMEX> of <ENAMEX TYPE="LOCATION">Indonesia</ENAMEX> to upgrade its three 737 surveillance aircraft used to patrol its economic zone.
+<ENAMEX TYPE="ORGANIZATION">Boeing</ENAMEX> said its <ENAMEX TYPE="ORGANIZATION">Aerospace & Electronics</ENAMEX> unit will outfit the aircraft with maritime surveillance equipment, and that the first airplane is scheduled to be redelivered to the government in 1993.

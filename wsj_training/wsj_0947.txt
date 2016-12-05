@@ -1,0 +1,3 @@
+The <ENAMEX TYPE="ORGANIZATION">National Aeronautics</ENAMEX> and <ENAMEX TYPE="ORGANIZATION">Space Administration</ENAMEX> said it awarded <ENAMEX TYPE="ORGANIZATION">General Dynamics Corp.</ENAMEX> a $64 million contract to launch the <ENAMEX TYPE="ORGANIZATION">Combined Release</ENAMEX> and <ENAMEX TYPE="ORGANIZATION">Radiation Effects Satellite</ENAMEX> in June 1990.
+<ENAMEX TYPE="ORGANIZATION">CRRES</ENAMEX> is a joint <ENAMEX TYPE="ORGANIZATION">NASA</ENAMEX>-<ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> satellite to study the effects of space radiation on micro-electronic components.
+<ENAMEX TYPE="ORGANIZATION">NASA</ENAMEX> said <ENAMEX TYPE="ORGANIZATION">General Dynamics</ENAMEX> will launch CRRES using an Atlas 1 rocket.

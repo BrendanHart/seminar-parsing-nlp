@@ -1,0 +1,3 @@
+<ENAMEX TYPE="ORGANIZATION">Monsanto Co.</ENAMEX>'s <ENAMEX TYPE="ORGANIZATION">G.D. Searle & Co.</ENAMEX> unit said it acquired <ENAMEX TYPE="ORGANIZATION">Heumann Pharma G.m.b. H. & Co.</ENAMEX>, a <ENAMEX TYPE="LOCATION">West German</ENAMEX> pharmaceutical concern.
+<ENAMEX TYPE="PERSON">Searle</ENAMEX> didn't disclose terms of the acquisition. <ENAMEX TYPE="ORGANIZATION">Heumann Pharma</ENAMEX> has about 500 employees, and a <ENAMEX TYPE="ORGANIZATION">Searle</ENAMEX> spokeswoman said the European concern had 1988 sales of about $55 million.
+<ENAMEX TYPE="PERSON">Searle</ENAMEX> is the pharmaceutical subsidiary of <ENAMEX TYPE="ORGANIZATION">Monsanto</ENAMEX>, a <ENAMEX TYPE="LOCATION">St. Louis</ENAMEX> maker of drugs and farm chemicals.

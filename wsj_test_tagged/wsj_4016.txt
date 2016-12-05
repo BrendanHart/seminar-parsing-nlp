@@ -1,0 +1,16 @@
+<ENAMEX TYPE="ORGANIZATION">Supply</ENAMEX> and <ENAMEX TYPE="ORGANIZATION">Reprimand</ENAMEX>
+(``The federal government uses 778 million paper clips a year, at a cost of $1.2 million''. -- WSJ <ENAMEX TYPE="LOCATION">Washington</ENAMEX> Wire.)
+When <ENAMEX TYPE="PERSON">John Q. Public</ENAMEX> read this item
+He got so provoked that he flipped.
+``It's just another example,'' he roared,
+``Of how the taxpayer gets clipped ''
+-- <ENAMEX TYPE="PERSON">George O. Ludcke</ENAMEX>.
+Autumnal Awe
+I hate to see the summer leave,
+And yet (don't think me odd),
+<ENAMEX TYPE="ORGANIZATION">Fall</ENAMEX>'s colors are so lovely, they
+Must be an Oct. of God.
+-- <ENAMEX TYPE="PERSON">Dick Emmons</ENAMEX>.
+Daffynition
+Corrective surgery: back to the suture.
+-- <ENAMEX TYPE="PERSON">Marvin Alisky</ENAMEX>.

@@ -1,0 +1,13 @@
+<0.28.9.94.13.22.29.valdes+@CS.CMU.EDU (Raul Valdes-Perez).0>
+Type:     cmu.cs.scs
+Topic:    Special AI Seminar
+Dates:    29-Sep-94
+Time:     3:00 PM
+PostedBy: valdes+ on 28-Sep-94 at 13:22 from CS.CMU.EDU (Raul Valdes-Perez)
+Abstract: 
+Ken Forbus of Northwestern University will give a seminar on 
+
+ "Articulate Virtual Laboratories for Engineering Education"
+
+tomorrow (Thursday) at 3pm in Wean 4625.  The abstract will be
+posted when available.

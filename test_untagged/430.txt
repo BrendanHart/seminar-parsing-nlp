@@ -1,0 +1,60 @@
+<0.29.10.91.10.59.01.marian+@MARIAN.ADM.CS.CMU.EDU (Marian D'Amico).0>
+Type:     cmu.cs.scs
+Who:      Wayne Snyder
+Topic:    Basic Paramodulation and Basic Strict Superposition
+Dates:    7-Nov-91
+Time:     3:30 PM
+Place:    WeH 5409
+Host:     Stephen D. Brookes
+PostedBy: marian+ on 29-Oct-91 at 10:59 from MARIAN.ADM.CS.CMU.EDU (Marian D'Amico)
+Abstract: 
+
+
+ SPEAKER:  Wayne Snyder
+ TITLE:    Basic Paramodulation and Basic Strict Superposition
+ DATE:     Thursday, November 7, 1991
+ TIME:     3:30PM
+ PLACE:    WeH 5409
+
+**********************************************************
+		LOGIC COLLOQUIUM
+	      Thursday, 7 November
+		3:30, Wean 5409
+**********************************************************
+
+            Basic Paramodulation 
+                   and
+         Basic Strict Superposition
+
+               Wayne Snyder
+            Boston University
+
+Paramodulation is a refutational theorem proving method
+which generalizes the Resolution principle to first-order 
+languages with equality. An important area of research
+has been investigating complete restrictions on the
+locations in clauses where this prolific rule is
+applied. For example, the calculus is complete if
+paramodulation into variables is forbidden and if
+various restrictions involving term orderings are applied.
+In this project we show that by extending the principles
+of Basic Narrowing, we may obtain a strong refinement of
+the Paramodulation calculus in which paramodulation
+inferences are forbidden at any term introduced by 
+substitution at some earlier inference step. This
+strategy is complete in conjunction with ordering-based
+refinements, and may be strengthened in various ways
+if the ordering restrictions are relaxed. We present
+two calculi strictly improving the Ordered Paramodulation
+and Strict Superposition calculi, and discuss the
+role of deletion rules such as simplification and
+subsumption and of blocking rules for avoiding redundant
+inferences. Benchmarks with our prototype implementation
+will also be discussed. 
+
+Joint work with L. Bachmair, H. Ganzinger, and C. Lynch
+
+---------------
+ Host:  Stephen D. Brookes
+
+Appts. through Marian D'Amico, marian@spice, x7665

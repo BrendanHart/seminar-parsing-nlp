@@ -1,0 +1,3 @@
+<ENAMEX TYPE="ORGANIZATION">Fluor Corp.</ENAMEX> said it was awarded a $300 million contract to provide engineering and construction-management services at a copper mine in <ENAMEX TYPE="LOCATION">Irian Jaya</ENAMEX>, <ENAMEX TYPE="LOCATION">Indonesia</ENAMEX>, for a unit of <ENAMEX TYPE="ORGANIZATION">Freeport-Mcmoran Copper Co.</ENAMEX>
+<ENAMEX TYPE="ORGANIZATION">Fluor</ENAMEX>, based in <ENAMEX TYPE="LOCATION">Irvine</ENAMEX>, <ENAMEX TYPE="LOCATION">Calif.</ENAMEX>, will direct expansion of the mine's capacity to 52,000 metric tons a day from 32,000 metric tons a day. Completion of the project is expected by mid-1992.
+In 1988, Fluor had revenue of $5.1 billion and earnings of $56.4 million, or 71 cents a share.

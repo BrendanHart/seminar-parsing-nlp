@@ -1,0 +1,39 @@
+<0.30.1.92.13.39.38.marian+@MARIAN.ADM.CS.CMU.EDU (Marian D'Amico).0>
+Type:     cmu.cs.scs
+Topic:    LOGIC COLLOQUIUM
+Dates:    6-Feb-92
+Time:     3:30
+Host:     Stephen D. Brookes
+PostedBy: marian+ on 30-Jan-92 at 13:39 from MARIAN.ADM.CS.CMU.EDU (Marian D'Amico)
+Abstract: 
+
+*************************************************************************
+			  Logic Colloquium
+		        Thursday February 6
+			   3:30 Wean 5409
+*************************************************************************
+       	   On The Mathematics of Non-monotonic Reasoning
+			  Menachem Magidor
+		   Hebrew University of Jerusalem
+	          (Joint work with Daniel Lehman)
+
+Non-monotonic reasoning is an attempt to develop reasoning systems
+where an inference means that the conclusion holds in the "normal case",
+in "most cases", but it does not necessarily hold in all cases. It seems 
+that this type of reasoning is needed if one wants to model everyday
+common-sense reasoning. There have been many models suggested for
+non-monotonic reasoning (like circumscription, default logic, autoepistemic 
+logic, etc). We study all these approaches in a more abstract fashion by 
+considering the inference relation of the reasoning system, and clarify 
+the role of different inference rules and the impact they have on the 
+model theory of the logic. We are especially interested in a particular 
+rule called "Rational Monotony" and the connection between it and 
+probabilistic models.
+
+ NOTE: Prof. Magidor will also give a Math Department Colloquium on Friday
+ February 7.
+
+-------------------------
+ Host:  Stephen D. Brookes
+
+Appointments can be made through Marian D'Amico, marian@cs, x7665.

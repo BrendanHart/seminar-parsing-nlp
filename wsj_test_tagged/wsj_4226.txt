@@ -1,0 +1,4 @@
+Consumer prices in the 12-nation <ENAMEX TYPE="ORGANIZATION">European Community</ENAMEX> rose a moderate 0.2% in August and 0.3% in <ENAMEX TYPE="LOCATION">July</ENAMEX>, according to <ENAMEX TYPE="ORGANIZATION">EC</ENAMEX> figures.
+The August figure is provisional.
+Inflation during the two months was highest in <ENAMEX TYPE="LOCATION">Portugal</ENAMEX>, where prices rose 1% in <ENAMEX TYPE="LOCATION">July</ENAMEX> and 1.8% in August, and in <ENAMEX TYPE="LOCATION">Spain</ENAMEX>, where prices increased 1.6% in <ENAMEX TYPE="LOCATION">July</ENAMEX> and 0.2% in August.
+The <ENAMEX TYPE="ORGANIZATION">EC</ENAMEX> statistics agency, <ENAMEX TYPE="ORGANIZATION">Eurostat</ENAMEX>, said that <ENAMEX TYPE="ORGANIZATION">EC</ENAMEX> inflation for the 12 months to August was 5.1%. That is slightly higher than the <ENAMEX TYPE="LOCATION">U.S.</ENAMEX>, at 4.7%, and well above <ENAMEX TYPE="LOCATION">Japan</ENAMEX>, at 2.4%.

@@ -1,0 +1,50 @@
+<1.9.2.93.14.31.50.garth+@NIAGARA.NECTAR.CS.CMU.EDU (Garth Gibson).0>
+Type:     cmu.cs.scs
+Topic:    Change!!: Wed WWC PictureTel Seminar
+Dates:    10-Feb-93
+Time:     7:15 - 8:15 PM
+PostedBy: garth+ on 9-Feb-93 at 14:31 from NIAGARA.NECTAR.CS.CMU.EDU (Garth Gibson)
+Abstract: 
+
+Prof Patterson has demonstrated classical "absent-minded
+professor" symptoms.  The abstract posted a few days ago
+is not the talk that he plans to give.  Instead, he appears
+to be giving the talk we saw last spring in our Distinguished
+Lecture Series.  It was good then, so if you missed it or
+would like a reprise, come tomorrow evening.    ----  garth
+
+	         West Coast Computer Science Colloquium
+
+		      Terabytes >> Teraflops
+	Or why work on processors when I/O is where the action is?
+
+			David A. Patterson
+	   Professor and Chair, Computer Science Division,
+	  EECS Department, University of California, Berkeley
+
+                        7:15 - 8:15 pm
+                        4623 Wean Hall
+                (via Picturetel from Berkeley)
+                moderated locally by Garth Gibson
+[[[[[[  This is likely to be similar to the distinguished lecture given by
+	Patterson here at CMU last spring.    ---  garth  ]]]]]]]
+
+Amdahl's Law tells us with faster processors we
+need faster and larger I/O. Unfortunately disks are getting smaller rather
+than faster.  This talk describes the results of the RAID project
+(Redundant Arrays of Inexpensive Disks), which offers much
+greater performance, capacity, and reliablity from I/O systems.
+
+I will also talk about a new project getting underway called Sequoia 2000,
+which looks at utilizing small helical scan tapes, such as
+digital-audio tapes or video tapes, to offer terabytes of
+storage for the price of a fileserver. (Sequoia 2000 is the Digital
+Equipment Corporation funded successor to MIT's Project Athena;
+it promises terabytes of economical and low latency storage
+for global change scientists at the University of California.)
+
+My thesis is that a factor of 1000 increase in storage capacity available
+on most Ethernets will have a much greater impact than a factor of
+1000 increase in processing speed for a gaggle of scientists.
+
+----------------------------------------------------------------------------

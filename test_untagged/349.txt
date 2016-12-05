@@ -1,0 +1,25 @@
+<0.13.4.92.11.10.35.ssingh+@H.GP.CS.CMU.EDU (Sanjiv Singh).0>
+Type:     cmu.cs.robotics
+Topic:    Robotics/Planning Talk: Dan Koditschek
+Dates:    16-Apr-92
+Time:     3:30 - 5:00 PM
+PostedBy: ssingh+ on 13-Apr-92 at 11:10 from H.GP.CS.CMU.EDU (Sanjiv Singh)
+Abstract: 
+
+                  The Dynamics of Robot Assembly Problems
+
+                             Dan Koditschek
+                            Yale University
+
+                             3:30 - 5:00 pm
+                             Thursday Apr 16
+                                Wean 4623
+Assembly problems arise when a robot with relatively few degrees of actuated
+freedom is assigned to manipulate an environment with relatively  many
+degrees of unactuated freedom. This talk reviews our progress in the
+effort to pose and solve classes of such problems within a framework of
+"autonomous machine design" that emphasizes the dynamical nature of
+robot tasks and environments.
+
+-----------------------------------------------------------------------
+If you'd like to meet with Dan, please send me mail at ssingh@cs.

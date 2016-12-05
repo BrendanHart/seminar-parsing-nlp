@@ -1,0 +1,63 @@
+<1.28.10.94.17.08.27.xu+@IUS4.IUS.CS.CMU.EDU (Yangsheng Xu).0>
+Type:     cmu.cs.robotics
+Who:      Tony Stentz
+          The Robotics Institute
+          Carnegie Mellon University
+Topic:    The D* Algorithm for Real-Time Path Replanning
+Dates:    4-Nov-94
+Time:     3:30 PM - 5:00 PM
+Place:    ADAMSON WING Auditorium in Baker Hall
+Host:     Yangsheng Xu (xu+@cs.cmu.edu)
+PostedBy: xu+ on 28-Oct-94 at 17:08 from IUS4.IUS.CS.CMU.EDU (Yangsheng Xu)
+Abstract: 
+
+
+                       RI SEMINAR
+
+ WHEN:   Friday, Nov. 4, 1994; 3:30 pm - 5:00 pm
+        Refreshments will be served starting at 3:15 pm
+
+ WHERE:  ADAMSON WING Auditorium in Baker Hall
+
+ SPEAKER: Tony Stentz
+ 	 The Robotics Institute
+          Carnegie Mellon University
+
+ TITLE:  The D* Algorithm for Real-Time Path Replanning
+
+The task of planning trajectories for a mobile robot has received
+considerable attention in the research literature.  Algorithms exist
+for handling a variety of robot shapes, configurations, motion
+constraints, and environments.  Most of the work assumes the robot has
+a complete and accurate model of its environment before it begins to
+move; less attention has been paid to the problem of unknown or
+partially-known environments.  This situation occurs for an
+exploratory robot or one that must move to a goal location without the
+benefit of a floorplan or terrain map.  Existing approaches plan an
+initial global path based on known information and then modify the
+plan locally as the robot discovers obstacles with its sensors.  This
+strategy works well in environments with small, sparse obstacles, but
+it can lead to grossly suboptimal and incomplete results in cluttered
+spaces.  An alternative approach is to replan a global path from
+scratch each time a new obstacle is discovered.  This brute-force
+approach is optimal, but it is grossly inefficient.  This talk
+describes a new algorithm, D*, capable of planning paths in unknown,
+partially-known, and changing environments in an efficient, optimal,
+and complete manner.  D* models the environment as a graph, where each
+node represents a robot state, and each arc represents the cost of
+moving between two states.  Initially, a path is planned from the goal
+to the robot's location using known information.  As the robot moves,
+its sensors discover obstacles in its path.  These discoveries are
+handled by modifying the arc costs.  D* propagates cost changes
+minimally to compute a new optimal path.  The process repeats until
+the robot reaches the goal or determines that it cannot.    
+
+D* was implemented and compared head-to-head with the brute force
+replanner to verify optimality and determine the performance
+improvement.  It was integrated with an obstacle avoidance system and
+tested on the Navlab II.  The robot succeeded in finding a specified
+goal in a cluttered environment given no initial map information.  The
+algorithm and the results will be presented. 
+
+ Host: 		Yangsheng Xu (xu+@cs.cmu.edu)
+ Appointment: 	Ava Cruse (avac@cs.cmu.edu)

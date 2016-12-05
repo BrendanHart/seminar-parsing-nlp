@@ -1,0 +1,18 @@
+<0.09.9.91.11.46.08.pkh+@TEZUKA.REST.RI.CMU.EDU (Ping Kang Hsiung).0>
+Type:     cmu.cs.robotics
+Topic:    apE visualization software talk this Tue.
+Dates:    10-Sep-91
+Time:     3:30 PM
+PostedBy: pkh+ on 09-Sep-91 at 11:46 from TEZUKA.REST.RI.CMU.EDU (Ping Kang Hsiung)
+Abstract: 
+
+On Tuesday Sept. 10, Michelle Messenger, the project coordinator for the
+visualization software apE, will give a short slide presentation (~20 min)
+in WeH 4623 at 3:30PM. All is invited to attend.
+Briefly, apE is one of the dominating packages in scientific visualization.
+It is developed at the Ohio Supercomputer Center and distributed as public
+domain software at the source code level. In recent years, both apE and AVS
+(the leading commercial visualization software) have pioneered many
+concepts/features that shaped the major themes in visualization tools. apE
+claims an installation base of over 800 sites internationally. The short
+presentation will give an overview of apE and the OSC visualization project.

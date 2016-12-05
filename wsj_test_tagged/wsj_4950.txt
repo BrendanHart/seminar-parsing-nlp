@@ -1,0 +1,3 @@
+<ENAMEX TYPE="ORGANIZATION">Midland Cogeneration Venture</ENAMEX>, 49%-owned by <ENAMEX TYPE="ORGANIZATION">CMS Energy Corp.</ENAMEX>, said it received final environmental approval to operate its electric and steam generating facility.
+The permit, issued by state officials, allows MCV to discharge cooling water, storm water and process wastewater into the <ENAMEX TYPE="LOCATION">Tittabawassee River</ENAMEX>.
+Other partners in the venture are <ENAMEX TYPE="ORGANIZATION">Dow Chemical Co.</ENAMEX>, <ENAMEX TYPE="ORGANIZATION">Coastal Corp.</ENAMEX>, <ENAMEX TYPE="ORGANIZATION">Fluor Corp.</ENAMEX> and <ENAMEX TYPE="ORGANIZATION">Panhandle Eastern Corp.</ENAMEX>

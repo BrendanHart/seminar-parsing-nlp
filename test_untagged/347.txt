@@ -1,0 +1,36 @@
+<0.20.3.92.09.11.02.rgw+@IUS4.IUS.CS.CMU.EDU (Reg Willson).0>
+Type:     cmu.cs.robotics
+Topic:    Computer vision and geometric measurement
+Dates:    20-Mar-92
+Time:     3:30 - 4:30
+PostedBy: rgw+ on 20-Mar-92 at 09:11 from IUS4.IUS.CS.CMU.EDU (Reg Willson)
+Abstract: 
+
+ Title:			Computer vision and geometric measurement
+
+ Visitor/Speaker:	Dr. Kam W. Wong
+ 			Professor of Civil Engineering
+ 			University of Illinois at Urbana-Champagne
+
+ Date:			Friday, March 20th
+
+Seminar time:		3:30-4:30, Adamson Wing, Baker Hall
+			(Refreshments served at 3:15)
+Some of the fundamental problems associated with the use of computer vision
+systems for fully automated geometric measurements will be discussed,
+ including: geometric distortion characteristics of vision systems, methods
+ of geometric calibration, target identification and centroiding, model
+ integration, and surface modeling.  A vision system that has been developed
+ to measure the shape, volume, and surface area of human bodies will be used
+ as the focus for discussion.
+
+Biographical sketch:
+
+Kam W. Wong is a Professor of Civil Engineering at the University of
+Illinois at Urbana-Champagne.  He has had over twenty-five years of research
+experience in analytical photogrammetry.  In the past five years, his
+research efforts have been directed to the development of methodologies for
+using computer vision systems for metric measurement in engineering
+construction, automated manufacturing, and bioengineering.  He is currently
+co-chair of a working group on digital and real-time photogrammetry in the
+International Society for Photogrammetry and Remote Sensing.

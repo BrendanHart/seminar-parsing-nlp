@@ -1,0 +1,4 @@
+<ENAMEX TYPE="ORGANIZATION">General Dynamics Corp.</ENAMEX> was awarded contracts totaling $589 million for one Navy Trident submarine and for <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> research on the <ENAMEX TYPE="ORGANIZATION">National Aerospace</ENAMEX> plane.
+<ENAMEX TYPE="ORGANIZATION">Grumman Corp.</ENAMEX> won a $58.9 million Navy contract for 12 F-14 aircraft.
+<ENAMEX TYPE="ORGANIZATION">Raytheon Co.</ENAMEX> was issued a $19.2 million <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> contract for support of the Milstar communications satellite.
+<ENAMEX TYPE="ORGANIZATION">Mcdonnell Douglas Corp.</ENAMEX> got a $12.5 million <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> contract for support work on the <ENAMEX TYPE="ORGANIZATION">National Aerospace</ENAMEX> plane.

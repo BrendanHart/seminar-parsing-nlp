@@ -1,0 +1,44 @@
+<0.23.4.91.12.33.03.L.R.Adkins-Shellie@B.GP.CS.CMU.EDU.0>
+Type:     cmu.cs.robotics
+Who:      Jeff Koechling, Sibley School of Mechanical and Aerospace 
+          Engineering, Cornell University
+Topic:    Control Strategies for Intermittent Dynamic Tasks
+Dates:    26-Apr-91
+Time:     3:30 PM
+Place:    Baker Hall, Adamson Wing
+Host:     Michael Erdmann, x7883
+PostedBy: L.R.Adkins-Shellie on 23-Apr-91 at 12:33 from B.GP.CS.CMU.EDU
+Abstract: 
+
+
+ Speaker:  Jeff Koechling, Sibley School of Mechanical and Aerospace 
+           Engineering, Cornell University
+ Title:    Control Strategies for Intermittent Dynamic Tasks
+ Date:	  April 26, 1991
+ Time:     3:30 p.m. until 4:30 p.m.
+ Location: Baker Hall, Adamson Wing
+ Host:     Michael Erdmann, x7883
+
+Running and juggling are examples of intermittent dynamic tasks.  That
+is, they require a manipulator alternately to be in contact with and
+out of contact with another object, and the relative velocity at
+contact is large.  During the noncontact, or "ballistic" phase, the
+manipulator loses the ability to control some of the degrees of freedom
+of the overall system.  The ballistic phase ends with an impact as
+contact is re-established.  The general control strategy for a
+manipulator faced with such a task is two-fold.  During the contact
+phase, the manipulator must establish appropriate initial conditions
+for the ballistic phase.  During the ballistic phase, it must prepare
+for the inevitable impact.
+
+How well do established control laws for running and juggling fit with
+this idea of alternately establishing initial conditions and preparing
+for impact?  I'll discuss Marc Raibert's control law for running that
+decomposes the problem along the degrees of freedom of the mechanism,
+and Martin Buhler's use of a "mirror" algorithm for juggling.
+
+----------
+Refreshments will be served from 3:15-3:30.  
+Discussion and questions:  4:30-5:00.
+Everyone in the CMU community is invited to attend.
+----------

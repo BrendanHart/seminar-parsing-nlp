@@ -1,0 +1,4 @@
+<ENAMEX TYPE="ORGANIZATION">Westinghouse Electric Corp.</ENAMEX>, <ENAMEX TYPE="LOCATION">Pittsburgh</ENAMEX>, said it received a $45 million contract to supply combustion turbine-generators to a <ENAMEX TYPE="ORGANIZATION">Raytheon Co.</ENAMEX> unit.
+<ENAMEX TYPE="ORGANIZATION">Westinghouse</ENAMEX> said <ENAMEX TYPE="ORGANIZATION">United Engineers & Constructors</ENAMEX> will buy two of its combustion turbines for use in a 300-megawatt power plant it will build for <ENAMEX TYPE="ORGANIZATION">Boston Edison Co.</ENAMEX>
+The plant, located in <ENAMEX TYPE="LOCATION">Weymouth</ENAMEX>, <ENAMEX TYPE="LOCATION">Mass.</ENAMEX>, is expected to begin operation in late 1993.
+<ENAMEX TYPE="ORGANIZATION">Westinghouse</ENAMEX> has interests in electrical products, defense electronics, financial services and broadcasting.
