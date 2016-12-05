@@ -1,7 +1,10 @@
 import re
 import nltk
+
+### This class parses the tagged files
 class EnamexParser():
 
+    # Read and parse all files on init
     def __init__(self, path, files):
         self.fileDict = {}
         count = 0
@@ -12,6 +15,7 @@ class EnamexParser():
             count += 1
         print("Done parsing.")
 
+    # Parse text
     def parse(self, text):
     
         entities = ["PERSON", "ORGANIZATION", "LOCATION"] 
@@ -47,9 +51,11 @@ class EnamexParser():
 
         return entityTagged
 
+    # Get a file's parse
     def get(self, fileID):
         return self.fileDict[fileID]
 
+    # Extract the named entities from the parsed
     def nesFromParsed(parsed):
         
         listOfNes = []
@@ -72,6 +78,7 @@ class EnamexParser():
 
         return listOfNes
 
+    # Extract the named entity trees from the parsed
     def neTreesFromParsed(parsed):
         classes = ["ORGANIZATION", "LOCATION", "PERSON"]
         trees = []

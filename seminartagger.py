@@ -11,7 +11,7 @@ from collections import Counter
 path = "./test_untagged"
 
 class Seminar():
-    def __init__(self, topic=None, _type=None, speaker=None, location=None, startTime=None, endTime=None, tokenCount=None):
+    def __init__(self, topic=None, _type=None, speaker=None, location=None, startTime=None, endTime=None, tokenCount=None, tagged=None):
         self.topic = topic
         self._type = _type
         self.speaker = speaker 
@@ -20,6 +20,7 @@ class Seminar():
         self.endTime = endTime
         self.topic = topic
         self.tokenCount = tokenCount
+        self.tagged = tagged
 
     def compareLooseTime(time1, time2):
         if time1 == None and time2 == None:
@@ -107,7 +108,6 @@ class SeminarTagger():
                 newSeminar.startTime = time[0][0]
 
         if newSeminar.endTime == None:
-            #Chunked removal?
             for i in range(len(chunked)):
                 for j in range(len(chunked[i])):
                     times = re.findall("(\d{1,2}(:\d{1,2}(\s*[AaPp]\.?[Mm])?|\s*[AaPp]\.?[Mm]))", nerTagger.flatten(chunked[i][j]))
@@ -129,16 +129,16 @@ class SeminarTagger():
         foundPerson = self.searchHeader(headerDict, "Who", "PERSON")
         firstFound = None
         if not foundPerson:
+            # Try find speaker in abstract
+            speakerWords = ["by", "speaker", "talk", "giving", "present"]
+            (foundPerson, firstFound) = self.searchAbstract(chunked, speakerWords, "PERSON")
+        if not foundPerson:
             # If we found no speakers and there's Who in the header, use the first phrase
             if "Who" in headerDict:
                 firstLine = headerDict["Who"][0]
                 firstLine = firstLine.split(",")
                 firstLine = firstLine[0].split("-")
                 foundPerson = firstLine[0].strip(" ")
-        if not foundPerson:
-            # Try find speaker in abstract
-            speakerWords = ["by", "speaker", "talk", "giving", "present"]
-            (foundPerson, firstFound) = self.searchAbstract(chunked, speakerWords, "PERSON")
         if not foundPerson:
             # Use the first found speaker if none were found in an expected sentence
             foundPerson = firstFound
@@ -169,7 +169,13 @@ class SeminarTagger():
         for i in range(len(sents)):
             first = True
             for j in range(len(sents[i])):
-                if sents[i][j].startswith("\t"):
+                if sents[i][j].startswith("\t\t"):
+                    text += sents[i][j]
+                    sents[i][j] = (0, sents[i][j])
+                elif sents[i][j].startswith("  "):
+                    text += sents[i][j]
+                    sents[i][j] = (0, sents[i][j])
+                elif sents[i][j].startswith("\n"):
                     text += sents[i][j]
                     sents[i][j] = (0, sents[i][j])
                 elif sents[i][j].isupper():
@@ -218,7 +224,8 @@ class SeminarTagger():
         for t in endTimes:
             abstract = abstract.replace(t, "<etime>"+t+"</etime>")
         
-        #print(abstract)
+        finalSeminarData = header + "\nAbstract:\n" + abstract
+        newSeminar.tagged  = finalSeminarData
         
         count = Counter()
         for t in nltk.word_tokenize(orig):
@@ -227,11 +234,6 @@ class SeminarTagger():
 
         newSeminar.tokenCount = count
         return newSeminar
-
-#            print("------------------------------------------------")
-#            print(header)
-#            print(abstract)
-#            print("------------------------------------------------")
 
     
     def looseTimeReplace(self, text, sTime, eTime=None):
@@ -268,7 +270,6 @@ class SeminarTagger():
             for j in range(len(chunked[i])):
                 nes = self.nerTagger.getNesFromTree(
                         self.nerTagger.neTagSentence(chunked[i][j]))
-                #print(nes)
                 for (l, ne) in nes:
                     flattened = self.nerTagger.flatten(chunked[i][j])
                     if l == label and (re.match("^\s*[A-Za-z]+:", flattened) or self.nerTagger.flatten(chunked[i][j]) == ('<ENAMEX TYPE="'+l+'">'+ne+"</ENAMEX>")):
@@ -341,8 +342,10 @@ class OntologyMaker():
     def __init__(self, seminarDict):
         categories = {}
         toBeClassified = set()
-        for sid in seminarDict.keys():
+        for sid in list(seminarDict):
             seminar = seminarDict[sid]                          
+            if seminar == None:
+                continue
             _type = seminar._type
             if not _type == None:
                 if "." in _type:
@@ -359,65 +362,83 @@ class OntologyMaker():
                         getArray.append(sid)
                         categories[category.lower()][subcategory.lower()] = getArray
                 else:
+                    _type = _type.lower()
+                    _type = _type.replace("seminar","")
+                    _type = _type.strip(" ")
+                    splitType = _type.split(" ")
                     tokens = nltk.word_tokenize(_type)
-                    for token in tokens:
-                        for category in categories.keys():
-                            if token.lower() in categories[category].keys():
-                                categories[category][token.lower()] = categories[category][token.lower()].append(sid)
-                            else:
-                                toBeClassified.add(sid)
-
-        for sid in toBeClassified:
-            seminar = seminarDict[sid]         
-            _type = seminar._type.lower()
-            _type = _type.replace("seminar","")
-            _type = _type.strip(" ")
-            print(_type)
-            splitType = _type.split(" ")
-            found = False
-            for w in splitType:
-                for category in categories.keys():
-                    if w in categories[category].keys():
-                        found = True
-                        getArray = categories[category.lower()][w]
+                    found = False
+                    subcategory = None
+                    category = splitType[0]
+                    if len(splitType) > 1:
+                        subcategory = splitType[1] 
+                    else:
+                        subcategory = "other"
+                    for k in categories.keys():
+                        for v in categories[k].keys():
+                            for t in splitType:
+                                if t == v:
+                                    category = k
+                                    subcategory = v
+                                    found = True
+                                    break
+                            if found:
+                                break
+                        if found:
+                            break
+                    if not category.lower() in categories.keys():
+                        categories[category.lower()] = {}
+                        categories[category.lower()][subcategory.lower()] = [sid]
+                    elif not subcategory.lower() in categories[category.lower()].keys():
+                        categories[category.lower()][subcategory.lower()] = [sid]
+                    else:
+                        getArray = categories[category.lower()][subcategory.lower()]
                         getArray.append(sid)
-                        categories[category.lower()][w] = getArray
-                        break
-                if found:
-                    break
-            if not found:
-                if len(splitType) > 1:
-                    categories[splitType[0]] = {}
-                    categories[splitType[0]][splitType[1]] = [sid]
-                else:
-                    categories[splitType[0]] = {}
-                    categories[splitType[0]]["other"] = [sid]
-
+                        categories[category.lower()][subcategory.lower()] = getArray
+                        
+        self.categories = categories
                            
-        print(categories)
-             
-                            
+    def search(self, query):
+        d = self.categories
+        for k in d.keys():
+            if k == query:
+                printDict(d[k])
+                continue
+            for v in d[k].keys():
+                if v == query:
+                    printDict(d[k][v])
 
-    def overlap(self, words1, words2):
-        o = []
-        for w in words1:
-            if w in words2:
-                o.append(w)
-        print(o)
-        return o
-    
+    def printDict(self, d):
+        for k in d.keys():
+            if type(d[k]) is dict:
+                for k2 in d[k].keys():
+                    print(d[k][k2])
+            else:
+                print(d[k])
+             
+    def printOntology(self):
+        for k in self.categories.keys():
+            print(k)
+            for v in self.categories[k].keys():
+                print("\t"+v)
+                for f in self.self.categories[k][v]:
+                    print("\t\t"+f)
+
 
 class SeminarTester():
 
     def locationTest(tagger, files):
         count = 0
         for f in files:
+            print(f)
             s = Seminar.makeSeminarFromFile("./test_tagged/"+f)
             myS = tagger.tag("./test_untagged/",f)
             if s == None or myS == None:
                 continue
             if str(s.location).replace(" ", "") == str(myS.location).replace(" ", ""):
                 count += 1
+            else:
+                print(s.location, myS.location)
         return (100 * count / len(files))
 
     def timeTest(tagger, files):
@@ -438,27 +459,40 @@ class SeminarTester():
 
     def speakerTest(tagger, files):
         count = 0
+        ignored = 0
         for f in files:
+            print(f)
             s = Seminar.makeSeminarFromFile("./test_tagged/"+f)
+            myS = tagger.tag("./test_untagged/", f)
+            if s == None or myS == None:
+                ignored += 1
+                continue
+            if s.speaker == myS.speaker:
+                count += 1
+            else:
+                print(s.speaker, myS.speaker)
+        return (100 * count / (len(files) - ignored))
 
                 
 nerTrainPath = "./wsj_training/"
 files = [f for f in listdir(path) if isfile(join(path, f))]
-nerTrainFiles = [f for f in listdir(nerTrainPath) if isfile(join(nerTrainPath, f))][:1]
+nerTrainFiles = [f for f in listdir(nerTrainPath) if isfile(join(nerTrainPath, f))][:1400]
 #files = ["311.txt","312.txt","313.txt","349.txt","314.txt","315.txt","316.txt","317.txt","318.txt","319.txt", "400.txt"]
 #files = ["436.txt", "432.txt"]
-#files = ["383.txt"]
+#files = ["403.txt"]
 nerTagger = NERTagger()
 nerTagger.train(nerTrainPath, nerTrainFiles)
 tagger = SeminarTagger(nerTagger)
 count = 0
 seminarDict = {}
 
-print(SeminarTester.timeTest(tagger, files))
+print(SeminarTester.locationTest(tagger, files))
 
-for f in files:
-    myS = tagger.tag(path, f)
-    seminarDict[f] = myS
-
+#for f in files:
+#    print(f)
+#    myS = tagger.tag(path, f)
+#    seminarDict[f] = myS
+#
 #ontology = OntologyMaker(seminarDict)
+#ontology.printOntology()
 

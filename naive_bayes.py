@@ -17,6 +17,7 @@ class NaiveBayesClassifier():
         for c in classes:
             self.probs[c] = 0
         
+    # Calculate the most probable type from probabilities
     def argmax(self, probability):
         highestT = None
         highestP = 0
@@ -26,6 +27,7 @@ class NaiveBayesClassifier():
                 highestT = t
         return highestT
 
+    # Classify a feature set
     def classify(self, features):
         if(not self.probsCalculated):
             self.calcProbs()
@@ -49,6 +51,7 @@ class NaiveBayesClassifier():
             
         return probability
 
+    # Update the values of the classifier
     def update(self, f, v, c, justF=False):
         if(justF):
             self.probs[c] += 1
@@ -63,6 +66,7 @@ class NaiveBayesClassifier():
                     self.probs[f][v] = {}
                     self.probs[f][v][c] = 1
 
+    # Calculate the final probabilities
     def calcProbs(self):
         finalProbs = {}
         for (k, v) in self.probs.items():
@@ -90,25 +94,4 @@ class NaiveBayesClassifier():
         
         self.probsCalculated = True
         self.finalProbs = finalProbs
-
-
-
-#def getFeature(text, index, offset, which):
-#    index = index + offset
-#    if index >= 0 and index < len(text):
-#        return parsed[index][which]
-#    else:
-#        return None
-#
-#def getFeatures(text, i):
-#    features = {} 
-#    features[0] = getFeature(text=text, index=i, offset=(-1), which=0)
-#    features[1] = getFeature(text=text, index=i, offset=0, which=0)
-#    features[2] = getFeature(text=text, index=i, offset=1, which=0)
-#    features[3] = getFeature(text=text, index=i, offset=(-1), which=2)
-#    features[4] = getFeature(text=text, index=i, offset=0, which=2)
-#    features[5] = getFeature(text=text, index=i, offset=1, which=2)
-#    features[6] = getFeature(text=text, index=i, offset=(-1), which=1)
-
-
 

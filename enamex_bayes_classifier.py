@@ -2,6 +2,8 @@ from naive_bayes import NaiveBayesClassifier
 import re
 import nltk
 
+### This class will classify named entities.
+### It should be used indirectly via NERTagger.
 class EnamexBayesClassifier(NaiveBayesClassifier):
 
     def __init__(self):
@@ -18,6 +20,7 @@ class EnamexBayesClassifier(NaiveBayesClassifier):
             NAMES.append(n)
         self.names = NAMES
 
+    # Determine the best class for a named entity.
     def classifyNE(self, t, after):
         t.append(after)
         previousNeTag = None
@@ -27,15 +30,11 @@ class EnamexBayesClassifier(NaiveBayesClassifier):
             previousNeTag = self.argmax(probs)
             classCount[previousNeTag] += 1 
 
-        #probs = self.classify(self.getFeatures(t))
         return max(classCount, key=classCount.get)
 
+    # Train the Naive Bayes classifier
     def train(self, nes):
         for i in range(len(nes)):
-            #self.update(None, None, nes[i][0], True)
-            #f = self.getFeatures(nes[i][1])
-            #for j in range(len(f)):
-            #    self.update(j, f[j], nes[i][0])
             previousNeTag = None
             self.update(None, None, nes[i].label(), True)
             words = nes[i][0]
@@ -46,33 +45,7 @@ class EnamexBayesClassifier(NaiveBayesClassifier):
                     self.update(j, f[j], nes[i].label())
                 previousNeTag = nes[i].label()
 
-                #if(i > 0):
-                #    self.update(4, parsed[i-1][1], parsed[i][1])
-             
-                #### current token
-                #self.update(0, parsed[i][0], parsed[i][1])
-                #self.update(2, parsed[i][2], parsed[i][1])
-
-                #### next token
-                #if(i < (len(parsed)-1)):
-                #    self.update(2, parsed[i+1][0], parsed[i][1])
-
-                #    self.update(3, parsed[i+1][2], parsed[i][1])
-
-                #self.update(5, EnamexBayesClassifier.persony(self.names, parsed[i][0]), parsed[i][1])
-                #self.update(6, EnamexBayesClassifier.organizationy(parsed[i][0]), parsed[i][1])
-                #self.update(7, EnamexBayesClassifier.locationy(parsed[i][0]), parsed[i][1])
-
-    #def getFeatures(self, ne):
-    #    f = {}
-    #    tokens = nltk.word_tokenize(ne)
-    #    f[0] = len(tokens)
-    #    f[1] = sum (1 for i in ne if not (i < 'z' and i > 'a')  and not (i < 'Z' and i > 'A'))
-    #    f[2] = sum (1 for i in ne)
-    #    f[3] = self.persony(self.names, tokens)
-    #    return f
-
-
+    # Get features from a particular named entity
     def getFeatures(self, ne, after, previousNeTag):
         f = {}
         f[0] = self.locationy(ne[0])
@@ -89,18 +62,14 @@ class EnamexBayesClassifier(NaiveBayesClassifier):
         
         return f
 
-    #def persony(self, names, words):
-    #    for w in words:
-    #        if w in names:
-    #            return True
-    #    return False
 
+    # Determine in a word has person features
     def persony(self, names, w, dontRecurse=False):
-
         if(dontRecurse):
             return w in names
-        return (w in names) and not self.organizationy(w, True) and not self.locationy(w, True)
+        return (w in names) and not self.organizationy(w) and not self.locationy(w)
 
+    # Determine in a word has location features
     def locationy(self, words):
         locWords = ["city", "united", "states", "road", "avenue","south","west","north","east"]
         for w in words:
@@ -112,7 +81,7 @@ class EnamexBayesClassifier(NaiveBayesClassifier):
                 return True
         return False
 
-
+    # Determine if a word has organization features
     def organizationy(self, word, dontRecurse=False):
         orgWords = ["corp", "inc.", "company", "org", "ltd"]
         r = False
@@ -122,6 +91,7 @@ class EnamexBayesClassifier(NaiveBayesClassifier):
             return r
         return r and not self.persony(self.names, word, True) and not self.locationy(word, True)
 
+    # Determine if a word has location features
     def locationy(self, word, dontRecurse=False):
         locWords = ["city", "united", "states", "road", "avenue","south","west","north","east"]
         if word.lower() in locWords:

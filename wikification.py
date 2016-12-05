@@ -2,8 +2,10 @@ import sys, http.client, urllib.request, urllib.parse, urllib.error, json, re
 
 from pprint import pprint
 
+### This method looks up string in dbpedia.
 def wikiLookup(ne): 
 
+    # Get the data from dbpedia
     query = ne.replace(" ", "_")
     query = query.replace("`", "")
     url_data = None
@@ -20,11 +22,14 @@ def wikiLookup(ne):
         print( "Failed to get data ... Can not proceed." )
         sys.exit()
 
+    # Find all labels
     labels = re.findall("<Label>(.+)</Label>", url_data)
 
+    # If named entity contains digits followed by other characters, make it a location
     if re.match("\d+.+", ne) or re.match(".+\d+", ne):
         return "LOCATION"
 
+    # Determine the type from the labels
     personWords = ["person"]
     locationWords = ["place", "location"]
     orgWikiWords = ["organization", "organisation"]
