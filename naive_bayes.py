@@ -1,5 +1,3 @@
-#NOTE: Make update just update values at a given parameter rather than do so much shit
-
 from os import listdir, stat
 from os.path import isfile, join
 from enamexparser import *
